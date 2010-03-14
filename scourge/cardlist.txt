@@ -1,0 +1,143 @@
+1 	Ageless Sentinels 	Creature - Wall 4/4 	3W 	Rare 	Tony Szczudlo 	English Scourge
+2 	Astral Steel 	Instant 	2W 	Common 	Matt Cavotta 	English Scourge
+3 	Aven Farseer 	Creature - Bird Soldier 1/1 	1W 	Common 	Luca Zontini 	English Scourge
+4 	Aven Liberator 	Creature - Bird Soldier 2/3 	2WW 	Common 	Brian Snõ 	English Scourge
+5 	Daru Spiritualist 	Creature - Cleric 1/1 	1W 	Common 	Dave Dorman 	English Scourge
+6 	Daru Warchief 	Creature - Soldier 1/1 	2WW 	Uncommon 	Tim Hildebrandt 	English Scourge
+7 	Dawn Elemental 	Creature - Elemental 3/3 	WWWW 	Rare 	Anthony S. Waters 	English Scourge
+8 	Decree of Justice 	Sorcery 	XX2WW 	Rare 	Adam Rex 	English Scourge
+9 	Dimensional Breach 	Sorcery 	5WW 	Rare 	Dave Dorman 	English Scourge
+10 	Dragon Scales 	Enchant Creature 	1W 	Common 	Darrell Riche 	English Scourge
+11 	Dragonstalker 	Creature - Bird Soldier 3/3 	4W 	Uncommon 	Ron Spencer 	English Scourge
+12 	Eternal Dragon 	Creature - Dragon Spirit 5/5 	5WW 	Rare 	Justin Sweet 	English Scourge
+13 	Exiled Doomsayer 	Creature - Cleric 1/2 	1W 	Rare 	Brian Snõ 	English Scourge
+14 	Force Bubble 	Enchantment 	2WW 	Rare 	Alan Pollack 	English Scourge
+15 	Frontline Strategist 	Creature - Soldier 1/1 	W 	Common 	Christopher Moeller 	English Scourge
+16 	Gilded Light 	Instant 	1W 	Uncommon 	John Avon 	English Scourge
+17 	Guilty Conscience 	Enchant Creature 	W 	Common 	Christopher Moeller 	English Scourge
+18 	Karona's Zealot 	Creature - Cleric 2/5 	4W 	Uncommon 	Alan Pollack 	English Scourge
+19 	Noble Templar 	Creature - Cleric Soldier 3/6 	5W 	Common 	Alex Horley-Orlandelli 	English Scourge
+20 	Rain of Blades 	Instant 	W 	Uncommon 	Rob Alexander 	English Scourge
+21 	Recuperate 	Instant 	3W 	Common 	Tim Hildebrandt 	English Scourge
+22 	Reward the Faithful 	Instant 	W 	Uncommon 	Matt Cavotta 	English Scourge
+23 	Silver Knight 	Creature - Knight 2/2 	WW 	Uncommon 	Eric Peterson 	English Scourge
+24 	Trap Digger 	Creature - Soldier 1/3 	3W 	Rare 	Christopher Moeller 	English Scourge
+25 	Wing Shards 	Instant 	1WW 	Uncommon 	Daren Bader 	English Scourge
+26 	Wipe Clean 	Instant 	1W 	Common 	Arnie Swekel 	English Scourge
+27 	Zealous Inquisitor 	Creature - Cleric 2/2 	2W 	Common 	Wayne England 	English Scourge
+28 	Aphetto Runecaster 	Creature - Wizard 2/3 	3U 	Uncommon 	Scott M. Fischer 	English Scourge
+29 	Brain Freeze 	Instant 	1U 	Uncommon 	Tim Hildebrandt 	English Scourge
+30 	Coast Watcher 	Creature - Bird Soldier 1/1 	1U 	Common 	Luca Zontini 	English Scourge
+31 	Day of the Dragons 	Enchantment 	4UUU 	Rare 	Matthew D. Wilson 	English Scourge
+32 	Decree of Silence 	Enchantment 	6UU 	Rare 	Adam Rex 	English Scourge
+33 	Dispersal Shield 	Instant 	1U 	Common 	Dave Dorman 	English Scourge
+34 	Dragon Wings 	Enchant Creature 	1U 	Common 	Darrell Riche 	English Scourge
+35 	Faces of the Past 	Enchantment 	2U 	Rare 	Wayne England 	English Scourge
+36 	Frozen Solid 	Enchant Creature 	1UU 	Common 	Glen Angus 	English Scourge
+37 	Hindering Touch 	Instant 	3U 	Common 	Glen Angus 	English Scourge
+38 	Long-Term Plans 	Instant 	2U 	Uncommon 	Ben Thompson 	English Scourge
+39 	Mercurial Kite 	Creature - Bird 2/2 	3U 	Common 	Richard Sardinha 	English Scourge
+40 	Metamorphose 	Instant 	1U 	Uncommon 	Ron Spencer 	English Scourge
+41 	Mind's Desire 	Sorcery 	4UU 	Rare 	Ron Spencer 	English Scourge
+42 	Mischievous Quanar 	Creature - Beast 3/3 	4U 	Rare 	Lars Grant-West 	English Scourge
+43 	Mistform Warchief 	Creature - Illusion 1/3 	2U 	Uncommon 	Greg Hildebrandt 	English Scourge
+44 	Parallel Thoughts 	Enchantment 	3UU 	Rare 	Ben Thompson 	English Scourge
+45 	Pemmin's Aura 	Enchant Creature 	1UU 	Uncommon 	Greg Staples 	English Scourge
+46 	Raven Guild Initiate 	Creature - Wizard 1/4 	2U 	Common 	Christopher Moeller 	English Scourge
+47 	Raven Guild Master 	Creature - Wizard Mutant 1/1 	1UU 	Rare 	Kev Walker 	English Scourge
+48 	Riptide Survivor 	Creature - Wizard 2/1 	2U 	Uncommon 	Thomas M. Baxa 	English Scourge
+49 	Rush of Knowledge 	Sorcery 	4U 	Common 	Eric Peterson 	English Scourge
+50 	Scornful Egotist 	Creature - Wizard 1/1 	7U 	Common 	Jim Nelson 	English Scourge
+51 	Shoreline Ranger 	Creature - Bird Soldier 3/4 	5U 	Common 	Michael Sutfin 	English Scourge
+52 	Stifle 	Instant 	U 	Rare 	Dany Orizio 	English Scourge
+53 	Temporal Fissure 	Sorcery 	4U 	Common 	Edward P. Beard, Jr. 	English Scourge
+54 	Thundercloud Elemental 	Creature - Elemental 3/4 	5UU 	Uncommon 	Anthony S. Waters 	English Scourge
+55 	Bladewing's Thrall 	Creature - Zombie 3/3 	2BB 	Uncommon 	Kev Walker 	English Scourge
+56 	Cabal Conditioning 	Sorcery 	6B 	Rare 	Scott M. Fischer 	English Scourge
+57 	Cabal Interrogator 	Creature - Zombie Wizard 1/1 	1B 	Uncommon 	Tony Szczudlo 	English Scourge
+58 	Call to the Grave 	Enchantment 	4B 	Rare 	Daren Bader 	English Scourge
+59 	Carrion Feeder 	Creature - Zombie 1/1 	B 	Common 	Brian Snõ 	English Scourge
+60 	Chill Haunting 	Instant 	1B 	Uncommon 	Brian Snõ 	English Scourge
+61 	Clutch of Undeath 	Enchant Creature 	3BB 	Common 	Greg Hildebrandt 	English Scourge
+62 	Consumptive Goo 	Creature - Ooze 1/1 	BB 	Rare 	Carl Critchlow 	English Scourge
+63 	Death's-Head Buzzard 	Creature - Bird 2/1 	1BB 	Common 	Marcelo Vignali 	English Scourge
+64 	Decree of Pain 	Sorcery 	6BB 	Rare 	Carl Critchlow 	English Scourge
+65 	Dragon Shadow 	Enchant Creature 	1B 	Common 	Kev Walker 	English Scourge
+66 	Fatal Mutation 	Enchant Creature 	B 	Uncommon 	Erica Gassalasca-Jape 	English Scourge
+67 	Final Punishment 	Sorcery 	3BB 	Rare 	Matt Thompson 	English Scourge
+68 	Lethal Vapors 	Enchantment 	2BB 	Rare 	John Avon 	English Scourge
+69 	Lingering Death 	Enchant Creature 	1B 	Common 	Matt Thompson 	English Scourge
+70 	Nefashu 	Creature - Zombie Mutant 5/3 	4BB 	Rare 	rk post 	English Scourge
+71 	Putrid Raptor 	Creature - Zombie Beast 4/4 	4BB 	Uncommon 	Pete Venters 	English Scourge
+72 	Reaping the Graves 	Instant 	2B 	Common 	Ron Spencer 	English Scourge
+73 	Skulltap 	Sorcery 	1B 	Common 	Adam Rex 	English Scourge
+74 	Soul Collector 	Creature - Vampire 3/4 	3BB 	Rare 	Matthew D. Wilson 	English Scourge
+75 	Tendrils of Agony 	Sorcery 	2BB 	Uncommon 	Pete Venters 	English Scourge
+76 	Twisted Abomination 	Creature - Zombie Mutant 5/3 	5B 	Common 	Daren Bader 	English Scourge
+77 	Unburden 	Sorcery 	1BB 	Common 	Wayne England 	English Scourge
+78 	Undead Warchief 	Creature - Zombie 1/1 	2BB 	Uncommon 	Greg Hildebrandt 	English Scourge
+79 	Unspeakable Symbol 	Enchantment 	1BB 	Uncommon 	Arnie Swekel 	English Scourge
+80 	Vengeful Dead 	Creature - Zombie 3/2 	3B 	Common 	Alex Horley-Orlandelli 	English Scourge
+81 	Zombie Cutthroat 	Creature - Zombie 3/4 	3BB 	Common 	Thomas M. Baxa 	English Scourge
+82 	Bonethorn Valesk 	Creature - Beast 4/2 	4R 	Common 	Alan Pollack 	English Scourge
+83 	Carbonize 	Instant 	2R 	Uncommon 	Alex Horley-Orlandelli 	English Scourge
+84 	Chartooth Cougar 	Creature - Cat Beast 4/4 	5R 	Common 	Tony Szczudlo 	English Scourge
+85 	Decree of Annihilation 	Sorcery 	8RR 	Rare 	John Avon 	English Scourge
+86 	Dragon Breath 	Enchant Creature 	1R 	Common 	Greg Staples 	English Scourge
+87 	Dragon Mage 	Creature - Dragon Wizard 5/5 	5RR 	Rare 	Matthew D. Wilson 	English Scourge
+88 	Dragon Tyrant 	Creature - Dragon 6/6 	8RR 	Rare 	Kev Walker 	English Scourge
+89 	Dragonspeaker Shaman 	Creature - Barbarian 2/2 	1RR 	Uncommon 	Kev Walker 	English Scourge
+90 	Dragonstorm 	Sorcery 	8R 	Rare 	Kev Walker 	English Scourge
+91 	Enrage 	Instant 	XR 	Uncommon 	Justin Sweet 	English Scourge
+92 	Extra Arms 	Enchant Creature 	4R 	Uncommon 	Greg Staples 	English Scourge
+93 	Form of the Dragon 	Enchantment 	4RRR 	Rare 	Carl Critchlow 	English Scourge
+94 	Goblin Brigand 	Creature - Goblin 2/2 	1R 	Common 	Arnie Swekel 	English Scourge
+95 	Goblin Psychopath 	Creature - Goblin Mutant 5/5 	3R 	Uncommon 	Pete Venters 	English Scourge
+96 	Goblin War Strike 	Sorcery 	R 	Common 	Pete Venters 	English Scourge
+97 	Goblin Warchief 	Creature - Goblin 2/2 	1RR 	Uncommon 	Tim Hildebrandt 	English Scourge
+98 	Grip of Chaos 	Enchantment 	4RR 	Rare 	Mark Tedin 	English Scourge
+99 	Misguided Rage 	Sorcery 	2R 	Common 	Michael Sutfin 	English Scourge
+100 	Pyrostatic Pillar 	Enchantment 	1R 	Uncommon 	Pete Venters 	English Scourge
+101 	Rock Jockey 	Creature - Goblin 3/3 	2R 	Common 	Glen Angus 	English Scourge
+102 	Scattershot 	Instant 	2R 	Common 	Glen Angus 	English Scourge
+103 	Siege-Gang Commander 	Creature - Goblin 2/2 	3RR 	Rare 	Christopher Moeller 	English Scourge
+104 	Skirk Volcanist 	Creature - Goblin 3/1 	3R 	Uncommon 	Matt Cavotta 	English Scourge
+105 	Spark Spray 	Instant 	R 	Common 	Pete Venters 	English Scourge
+106 	Sulfuric Vortex 	Enchantment 	1RR 	Rare 	Greg Staples 	English Scourge
+107 	Torrent of Fire 	Sorcery 	3RR 	Common 	Thomas M. Baxa 	English Scourge
+108 	Uncontrolled Infestation 	Enchant Land 	1R 	Common 	Tony Szczudlo 	English Scourge
+109 	Accelerated Mutation 	Instant 	3GG 	Common 	Edward P. Beard, Jr. 	English Scourge
+110 	Alpha Status 	Enchant Creature 	2G 	Uncommon 	Darrell Riche 	English Scourge
+111 	Ambush Commander 	Creature - Elf 2/2 	3GG 	Rare 	Darrell Riche 	English Scourge
+112 	Ancient Ooze 	Creature - Ooze */* 	5GG 	Rare 	Erica Gassalasca-Jape 	English Scourge
+113 	Break Asunder 	Sorcery 	2GG 	Common 	Jim Nelson 	English Scourge
+114 	Claws of Wirewood 	Sorcery 	3G 	Uncommon 	Tony Szczudlo 	English Scourge
+115 	Decree of Savagery 	Instant 	7GG 	Rare 	Alex Horley-Orlandelli 	English Scourge
+116 	Divergent Growth 	Instant 	G 	Common 	Rob Alexander 	English Scourge
+117 	Dragon Fangs 	Enchant Creature 	1G 	Common 	Carl Critchlow 	English Scourge
+118 	Elvish Aberration 	Creature - Elf Mutant 4/5 	5G 	Uncommon 	Matt Cavotta 	English Scourge
+119 	Fierce Empath 	Creature - Elf 1/1 	2G 	Common 	Alan Pollack 	English Scourge
+120 	Forgotten Ancient 	Creature - Elemental 0/3 	3G 	Rare 	Mark Tedin 	English Scourge
+121 	Hunting Pack 	Instant 	5GG 	Uncommon 	Jim Nelson 	English Scourge
+122 	Krosan Drover 	Creature - Elf 2/2 	3G 	Common 	Arnie Swekel 	English Scourge
+123 	Krosan Warchief 	Creature - Beast 2/2 	2G 	Uncommon 	Greg Hildebrandt 	English Scourge
+124 	Kurgadon 	Creature - Beast 3/3 	4G 	Uncommon 	Carl Critchlow 	English Scourge
+125 	One with Nature 	Enchant Creature 	G 	Uncommon 	Daren Bader 	English Scourge
+126 	Primitive Etchings 	Enchantment 	2GG 	Rare 	David Martin 	English Scourge
+127 	Root Elemental 	Creature - Elemental 6/5 	4GG 	Rare 	Anthony S. Waters 	English Scourge
+128 	Sprouting Vines 	Instant 	2G 	Common 	John Avon 	English Scourge
+129 	Titanic Bulvox 	Creature - Beast 7/4 	6GG 	Common 	Wayne England 	English Scourge
+130 	Treetop Scout 	Creature - Elf 1/1 	G 	Common 	Alan Pollack 	English Scourge
+131 	Upwelling 	Enchantment 	3G 	Rare 	John Avon 	English Scourge
+132 	Wirewood Guardian 	Creature - Elf Mutant 6/6 	5GG 	Common 	Mark Tedin 	English Scourge
+133 	Wirewood Symbiote 	Creature - Insect 1/1 	G 	Uncommon 	Thomas M. Baxa 	English Scourge
+134 	Woodcloaker 	Creature - Elf 3/3 	5G 	Common 	Jim Nelson 	English Scourge
+135 	Xantid Swarm 	Creature - Insect 0/1 	G 	Rare 	David Martin 	English Scourge
+136 	Bladewing the Risen 	Creature - Dragon Legend 4/4 	3BBRR 	Rare 	Kev Walker 	English Scourge
+137 	Edgewalker 	Creature - Cleric 2/2 	1WB 	Uncommon 	Ben Thompson 	English Scourge
+138 	Karona, False God 	Creature - Legend 5/5 	1WUBRG 	Rare 	Matthew D. Wilson 	English Scourge
+139 	Sliver Overlord 	Creature - Sliver Mutant Legend 7/7 	WUBRG 	Rare 	Tony Szczudlo 	English Scourge
+140 	Ark of Blight 	Artifact 	2 	Uncommon 	David Martin 	English Scourge
+141 	Proteus Machine 	Artifact Creature 2/2 	3 	Uncommon 	Greg Staples 	English Scourge
+142 	Stabilizer 	Artifact 	2 	Rare 	David Martin 	English Scourge
+143 	Temple of the False God 	Land 		Uncommon 	Brian Snõ 	English Scourge

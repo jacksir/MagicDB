@@ -1,0 +1,449 @@
+1 	Abyssal Specter 	Summon Specter 2/3 	2BB 	Uncommon 	George Pratt 	English Fifth Edition
+2 	Animate Dead 	Enchantment 	1B 	Uncommon 	Anson Maddocks 	English Fifth Edition
+3 	Ashes to Ashes 	Sorcery 	1BB 	Uncommon 	Doug Keith 	English Fifth Edition
+4 	Bad Moon 	Enchantment 	1B 	Rare 	Gary Leach 	English Fifth Edition
+5 	Black Knight 	Summon Knight 2/2 	BB 	Uncommon 	Adrian Smith 	English Fifth Edition
+6 	Blight 	Enchant Land 	BB 	Uncommon 	Ian Miller 	English Fifth Edition
+7 	Bog Imp 	Summon Imp 1/1 	1B 	Common 	Ron Spencer 	English Fifth Edition
+8 	Bog Rats 	Summon Rats 1/1 	B 	Common 	Ron Spencer 	English Fifth Edition
+9 	Bog Wraith 	Summon Wraith 3/3 	3B 	Uncommon 	Jeff A. Menges 	English Fifth Edition
+10 	Breeding Pit 	Enchantment 	3B 	Uncommon 	Adrian Smith 	English Fifth Edition
+11 	Broken Visage 	Instant 	4B 	Rare 	Margaret Organ-Kean 	English Fifth Edition
+12 	Carrion Ants 	Summon Ants 0/1 	2BB 	Uncommon 	John Coulthart 	English Fifth Edition
+13 	Cloak of Confusion 	Enchant Creature 	1B 	Common 	Margaret Organ-Kean 	English Fifth Edition
+14 	Cursed Land 	Enchant Land 	2BB 	Uncommon 	Jesper Myrfors 	English Fifth Edition
+15 	Dark Ritual 	Mana Source 	B 	Common 	Clint Langley 	English Fifth Edition
+16 	Deathgrip 	Enchantment 	BB 	Uncommon 	Anson Maddocks 	English Fifth Edition
+17 	Derelor 	Summon Thrull 4/4 	3B 	Rare 	Anson Maddocks 	English Fifth Edition
+18 	Drain Life 	Sorcery 	X1B 	Common 	Andrew Robinson 	English Fifth Edition
+19 	Drudge Skeletons 	Summon Skeletons 1/1 	1B 	Common 	Ian Miller 	English Fifth Edition
+20 	Erg Raiders 	Summon Raiders 2/3 	1B 	Common 	Stuart Griffin 	English Fifth Edition
+21 	Evil Eye of Orms-by-Gore 	Summon Evil Eye 3/6 	4B 	Uncommon 	George Pratt 	English Fifth Edition
+22 	Evil Presence 	Enchant Land 	B 	Uncommon 	Bob Eggleton 	English Fifth Edition
+23 	Fallen Angel 	Summon Angel 3/3 	3BB 	Uncommon 	Anson Maddocks 	English Fifth Edition
+24 	Fear 	Enchant Creature 	BB 	Common 	Doug Keith 	English Fifth Edition
+25 	Frozen Shade 	Summon Shade 0/1 	2B 	Common 	DiTerlizzi 	English Fifth Edition
+26 	Funeral March 	Enchant Creature 	1BB 	Common 	John Coulthart 	English Fifth Edition
+27 	Gloom 	Enchantment 	2B 	Uncommon 	Douglas Shuler 	English Fifth Edition
+28 	Greater Werewolf 	Summon Lycanthrope 2/4 	4B 	Uncommon 	Dennis Detwiller 	English Fifth Edition
+29 	Hecatomb 	Enchantment 	1BB 	Rare 	George Pratt 	English Fifth Edition
+30 	Howl from Beyond 	Instant 	XB 	Common 	John Coulthart 	English Fifth Edition
+31 	Initiates of the Ebon Hand 	Summon Clerics 1/1 	B 	Common 	Heather Hudson 	English Fifth Edition
+32 	Kjeldoran Dead 	Summon Dead 3/1 	B 	Common 	Melissa A. Benson 	English Fifth Edition
+33 	Knight of Stromgald 	Summon Knight 2/1 	BB 	Uncommon 	Mark Poole 	English Fifth Edition
+34 	Krovikan Fetish 	Enchant Creature 	2B 	Common 	Heather Hudson 	English Fifth Edition
+35 	Leshrac's Rite 	Enchant Creature 	B 	Uncommon 	Mike Raabe 	English Fifth Edition
+36 	Lord of the Pit 	Summon Demon 7/7 	4BBB 	Rare 	Mark Tedin 	English Fifth Edition
+37 	Lost Soul 	Summon Lost Soul 2/1 	1BB 	Common 	Randy Asplund 	English Fifth Edition
+38 	Mind Ravel 	Sorcery 	2B 	Common 	Mark Tedin 	English Fifth Edition
+39 	Mind Warp 	Sorcery 	X3B 	Uncommon 	Liz Danforth 	English Fifth Edition
+40 	Mindstab Thrull 	Summon Thrull 2/2 	1BB 	Common 	Mark Tedin 	English Fifth Edition
+41 	Mole Worms 	Summon Worms 1/1 	2B 	Uncommon 	Adrian Smith 	English Fifth Edition
+42 	Murk Dwellers 	Summon Murk Dwellers 2/2 	3B 	Common 	Drew Tucker 	English Fifth Edition
+43 	Necrite 	Summon Thrull 2/2 	1BB 	Common 	Ron Spencer 	English Fifth Edition
+44 	Necropotence 	Enchantment 	BBB 	Rare 	Mark Tedin 	English Fifth Edition
+45 	Nether Shadow 	Summon Shadow 1/1 	BB 	Rare 	DiTerlizzi 	English Fifth Edition
+46 	Nightmare 	Summon Nightmare */* 	5B 	Rare 	Melissa A. Benson 	English Fifth Edition
+47 	Paralyze 	Enchant Creature 	B 	Common 	Ron Spencer 	English Fifth Edition
+48 	Pestilence 	Enchantment 	2BB 	Common 	Kev Walker 	English Fifth Edition
+49 	Pit Scorpion 	Summon Scorpion 1/1 	2B 	Common 	Ian Miller 	English Fifth Edition
+50 	Plague Rats 	Summon Rats */* 	2B 	Common 	Anson Maddocks 	English Fifth Edition
+51 	Pox 	Sorcery 	BBB 	Rare 	Scott M. Fischer 	English Fifth Edition
+52 	Rag Man 	Summon Rag Man 2/1 	2BB 	Rare 	Daniel Gelon 	English Fifth Edition
+53 	Raise Dead 	Sorcery 	B 	Common 	David Seeley 	English Fifth Edition
+54 	Scathe Zombies 	Summon Zombies 2/2 	2B 	Common 	Tom Kyffin 	English Fifth Edition
+55 	Sengir Autocrat 	Summon Autocrat 2/2 	3B 	Rare 	David A. Cherry 	English Fifth Edition
+56 	Sorceress Queen 	Summon Sorceress 1/1 	1BB 	Rare 	Kaja Foglio 	English Fifth Edition
+57 	Stromgald Cabal 	Summon Knights 2/2 	1BB 	Rare 	Anson Maddocks 	English Fifth Edition
+58 	Terror 	Instant 	1B 	Common 	Ron Spencer 	English Fifth Edition
+59 	The Wretched 	Summon Wretched 2/5 	3BB 	Rare 	Christopher Rush 	English Fifth Edition
+60 	Thrull Retainer 	Enchant Creature 	B 	Uncommon 	Ron Spencer 	English Fifth Edition
+61 	Torture 	Enchant Creature 	B 	Common 	Mark Tedin 	English Fifth Edition
+62 	Touch of Death 	Sorcery 	2B 	Common 	Melissa A. Benson 	English Fifth Edition
+63 	Unholy Strength 	Enchant Creature 	B 	Common 	Tom Kyffin 	English Fifth Edition
+64 	Vampire Bats 	Summon Bats 0/1 	B 	Common 	Anson Maddocks 	English Fifth Edition
+65 	Wall of Bone 	Summon Wall 1/4 	2B 	Uncommon 	Anson Maddocks 	English Fifth Edition
+66 	Warp Artifact 	Enchant Artifact 	BB 	Rare 	Amy Weber 	English Fifth Edition
+67 	Weakness 	Enchant Creature 	B 	Common 	Kev Walker 	English Fifth Edition
+68 	Xenic Poltergeist 	Summon Poltergeist 1/1 	1BB 	Rare 	Mike Kerr 	English Fifth Edition
+69 	Zombie Master 	Summon Lord 2/3 	1BB 	Rare 	Stuart Griffin 	English Fifth Edition
+70 	Æher Storm 	Enchantment 	3U 	Uncommon 	Mark Tedin 	English Fifth Edition
+71 	Air Elemental 	Summon Elemental 4/4 	3UU 	Uncommon 	D. Alexander Gregory 	English Fifth Edition
+72 	Anti-Magic Aura 	Enchant Creature 	2U 	Uncommon 	Zak Plucinski 	English Fifth Edition
+73 	Azure Drake 	Summon Drake 2/4 	3U 	Uncommon 	Janine Johnston 	English Fifth Edition
+74 	Binding Grasp 	Enchant Creature 	3U 	Uncommon 	Jeff Miracola 	English Fifth Edition
+75 	Boomerang 	Instant 	UU 	Common 	Alan Rabinowitz 	English Fifth Edition
+76 	Brainstorm 	Instant 	U 	Common 	Christopher Rush 	English Fifth Edition
+77 	Counterspell 	Interrupt 	UU 	Common 	Hannibal King 	English Fifth Edition
+78 	Dance of Many 	Enchantment 	UU 	Rare 	Sandra Everingham 	English Fifth Edition
+79 	Dandâ	Summon Dandâ4/1 	UU 	Common 	Drew Tucker 	English Fifth Edition
+80 	Dark Maze 	Summon Wall 4/5 	4U 	Common 	David Seeley 	English Fifth Edition
+81 	Deflection 	Interrupt 	3U 	Rare 	Mike Raabe 	English Fifth Edition
+82 	Drain Power 	Sorcery 	UU 	Rare 	Jerry Tiritilli 	English Fifth Edition
+83 	Energy Flux 	Enchantment 	2U 	Uncommon 	Kaja Foglio 	English Fifth Edition
+84 	Enervate 	Instant 	1U 	Common 	L. A. Williams 	English Fifth Edition
+85 	Feedback 	Enchant Enchantment 	2U 	Uncommon 	Quinton Hoover 	English Fifth Edition
+86 	Flight 	Enchant Creature 	U 	Common 	Jerry Tiritilli 	English Fifth Edition
+87 	Flood 	Enchantment 	U 	Common 	Dennis Detwiller 	English Fifth Edition
+88 	Force Spike 	Interrupt 	U 	Common 	John Matson 	English Fifth Edition
+89 	Forget 	Sorcery 	UU 	Rare 	Mike Kimble 	English Fifth Edition
+90 	Gaseous Form 	Enchant Creature 	2U 	Common 	Doug Keith 	English Fifth Edition
+91 	Glacial Wall 	Summon Wall 0/7 	2U 	Uncommon 	Greg Simanson 	English Fifth Edition
+92 	Homarid Warrior 	Summon Homarid 3/3 	4U 	Common 	Pete Venters 	English Fifth Edition
+93 	Hurkyl's Recall 	Instant 	1U 	Rare 	Né Thomas 	English Fifth Edition
+94 	Hydroblast 	Interrupt 	U 	Uncommon 	Kaja Foglio 	English Fifth Edition
+95 	Juxtapose 	Sorcery 	3U 	Rare 	Justin Hampton 	English Fifth Edition
+96 	Krovikan Sorcerer 	Summon Wizard 1/1 	2U 	Common 	Pat Morrissey 	English Fifth Edition
+97 	Labyrinth Minotaur 	Summon Minotaur 1/4 	3U 	Common 	Anson Maddocks 	English Fifth Edition
+98 	Leviathan 	Summon Leviathan 10/10 	5UUUU 	Rare 	Mark Tedin 	English Fifth Edition
+99 	Lifetap 	Enchantment 	UU 	Uncommon 	Mike Dringenberg 	English Fifth Edition
+100 	Lord of Atlantis 	Summon Lord 2/2 	UU 	Rare 	Melissa A. Benson 	English Fifth Edition
+101 	Magical Hack 	Interrupt 	U 	Rare 	Julie Baroh 	English Fifth Edition
+102 	Magus of the Unseen 	Summon Wizard 1/1 	1U 	Rare 	Kaja Foglio 	English Fifth Edition
+103 	Memory Lapse 	Interrupt 	1U 	Common 	Mark Tedin 	English Fifth Edition
+104 	Merfolk of the Pearl Trident 	Summon Merfolk 1/1 	U 	Common 	John Matson 	English Fifth Edition
+105 	Mind Bomb 	Sorcery 	U 	Uncommon 	Mark Tedin 	English Fifth Edition
+106 	Phantasmal Forces 	Summon Phantasm 4/1 	3U 	Uncommon 	Mark Poole 	English Fifth Edition
+107 	Phantasmal Terrain 	Enchant Land 	UU 	Common 	David A. Cherry 	English Fifth Edition
+108 	Phantom Monster 	Summon Phantasm 3/3 	3U 	Uncommon 	Rebecca Guay 	English Fifth Edition
+109 	Pirate Ship 	Summon Ship 4/3 	4U 	Rare 	Tom Wärstrand 	English Fifth Edition
+110 	Portent 	Sorcery 	U 	Common 	Liz Danforth 	English Fifth Edition
+111 	Power Sink 	Interrupt 	XU 	Common 	Richard Thomas 	English Fifth Edition
+112 	Prodigal Sorcerer 	Summon Wizard 1/1 	2U 	Common 	Douglas Shuler 	English Fifth Edition
+113 	Psychic Venom 	Enchant Land 	1U 	Common 	Brian Snõ 	English Fifth Edition
+114 	Ray of Command 	Instant 	3U 	Common 	Harold McNeill 	English Fifth Edition
+115 	Recall 	Sorcery 	XXU 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+116 	Reef Pirates 	Summon Ships 2/2 	1UU 	Common 	Tom Wärstrand 	English Fifth Edition
+117 	Remove Soul 	Interrupt 	1U 	Common 	Mike Dringenberg 	English Fifth Edition
+118 	Sea Serpent 	Summon Serpent 5/5 	5U 	Common 	Ian Miller 	English Fifth Edition
+119 	Sea Spirit 	Summon Spirit 2/3 	4U 	Uncommon 	DiTerlizzi 	English Fifth Edition
+120 	Sea Sprite 	Summon Faerie 1/1 	1U 	Uncommon 	Rebecca Guay 	English Fifth Edition
+121 	Seasinger 	Summon Merfolk 0/1 	1UU 	Uncommon 	John Matson 	English Fifth Edition
+122 	Segovian Leviathan 	Summon Leviathan 3/3 	4U 	Uncommon 	Melissa A. Benson 	English Fifth Edition
+123 	Sibilant Spirit 	Summon Spirit 5/6 	5U 	Rare 	Ron Spencer 	English Fifth Edition
+124 	Sleight of Mind 	Interrupt 	U 	Rare 	Mark Poole 	English Fifth Edition
+125 	Soul Barrier 	Enchantment 	2U 	Common 	Harold McNeill 	English Fifth Edition
+126 	Spell Blast 	Interrupt 	XU 	Common 	Greg Simanson 	English Fifth Edition
+127 	Stasis 	Enchantment 	1U 	Rare 	Fay Jones 	English Fifth Edition
+128 	Steal Artifact 	Enchant Artifact 	2UU 	Uncommon 	John Coulthart 	English Fifth Edition
+129 	Time Elemental 	Summon Elemental 0/2 	2U 	Rare 	Amy Weber 	English Fifth Edition
+130 	Twiddle 	Instant 	U 	Common 	Rob Alexander 	English Fifth Edition
+131 	Unstable Mutation 	Enchant Creature 	U 	Common 	Charles Gillespie 	English Fifth Edition
+132 	Unsummon 	Instant 	U 	Common 	Douglas Shuler 	English Fifth Edition
+133 	Updraft 	Instant 	1U 	Common 	John Matson 	English Fifth Edition
+134 	Vodalian Soldiers 	Summon Merfolk 1/2 	1U 	Common 	Melissa A. Benson 	English Fifth Edition
+135 	Wall of Air 	Summon Wall 1/5 	1UU 	Uncommon 	Richard Kane Ferguson 	English Fifth Edition
+136 	Wind Spirit 	Summon Spirit 3/2 	4U 	Uncommon 	Kaja Foglio 	English Fifth Edition
+137 	Zephyr Falcon 	Summon Falcon 1/1 	1U 	Common 	Heather Hudson 	English Fifth Edition
+138 	Zur's Weirding 	Enchantment 	3U 	Rare 	Liz Danforth 	English Fifth Edition
+139 	An-Havva Constable 	Summon Constable 2/1+* 	1GG 	Rare 	Dan Frazier 	English Fifth Edition
+140 	Aspect of Wolf 	Enchant Creature 	1G 	Rare 	Janine Johnston 	English Fifth Edition
+141 	Aurochs 	Summon Aurochs 2/3 	3G 	Common 	Steve White 	English Fifth Edition
+142 	Birds of Paradise 	Summon Mana Birds 0/1 	G 	Rare 	Mark Poole 	English Fifth Edition
+143 	Carapace 	Enchant Creature 	G 	Common 	Anson Maddocks 	English Fifth Edition
+144 	Cat Warriors 	Summon Cat Warriors 2/2 	1GG 	Common 	Melissa A. Benson 	English Fifth Edition
+145 	Chub Toad 	Summon Toad 1/1 	2G 	Common 	Daniel Gelon 	English Fifth Edition
+146 	Cockatrice 	Summon Cockatrice 2/4 	3GG 	Rare 	Dan Frazier 	English Fifth Edition
+147 	Craw Giant 	Summon Giant 6/4 	3GGGG 	Uncommon 	Scott Kirschner 	English Fifth Edition
+148 	Craw Wurm 	Summon Wurm 6/4 	4GG 	Common 	Daniel Gelon 	English Fifth Edition
+149 	Crumble 	Instant 	G 	Uncommon 	Jesper Myrfors 	English Fifth Edition
+150 	Desert Twister 	Sorcery 	4GG 	Uncommon 	Susan Van Camp 	English Fifth Edition
+151 	Durkwood Boars 	Summon Boars 4/4 	4G 	Common 	Mike Kimble 	English Fifth Edition
+152 	Elder Druid 	Summon Cleric 2/2 	3G 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+153 	Elven Riders 	Summon Riders 3/3 	3GG 	Uncommon 	Dan Frazier 	English Fifth Edition
+154 	Elvish Archers 	Summon Elves 2/1 	1G 	Rare 	Anson Maddocks 	English Fifth Edition
+155 	Fog 	Instant 	G 	Common 	John Avon 	English Fifth Edition
+156 	Force of Nature 	Summon Force 8/8 	2GGGG 	Rare 	Pete Venters 	English Fifth Edition
+157 	Foxfire 	Instant 	2G 	Common 	Margaret Organ-Kean 	English Fifth Edition
+158 	Fungusaur 	Summon Fungusaur 2/2 	3G 	Rare 	Scott M. Fischer 	English Fifth Edition
+159 	Fyndhorn Elder 	Summon Elf 1/1 	2G 	Uncommon 	Donato Giancola 	English Fifth Edition
+160 	GhazbáOgre 	Summon Ogre 2/2 	G 	Common 	Mike Raabe 	English Fifth Edition
+161 	Giant Growth 	Instant 	G 	Common 	DiTerlizzi 	English Fifth Edition
+162 	Giant Spider 	Summon Spider 2/4 	3G 	Common 	Brian Snõ 	English Fifth Edition
+163 	Grizzly Bears 	Summon Bears 2/2 	1G 	Common 	Una Fricker 	English Fifth Edition
+164 	Hungry Mist 	Summon Mist 6/2 	2GG 	Common 	Heather Hudson 	English Fifth Edition
+165 	Hurricane 	Sorcery 	XG 	Uncommon 	Cornelius Brudi 	English Fifth Edition
+166 	Instill Energy 	Enchant Creature 	G 	Uncommon 	Ron Spencer 	English Fifth Edition
+167 	Ironroot Treefolk 	Summon Treefolk 3/5 	4G 	Common 	Jerry Tiritilli 	English Fifth Edition
+168 	Johtull Wurm 	Summon Wurm 6/6 	5G 	Uncommon 	Ian Miller 	English Fifth Edition
+169 	Killer Bees 	Summon Bees 0/1 	1GG 	Uncommon 	Phil Foglio 	English Fifth Edition
+170 	Ley Druid 	Summon Cleric 1/1 	2G 	Common 	Sandra Everingham 	English Fifth Edition
+171 	Lhurgoyf 	Summon Lhurgoyf */1+* 	2GG 	Rare 	Pete Venters 	English Fifth Edition
+172 	Lifeforce 	Enchantment 	GG 	Uncommon 	Ron Spencer 	English Fifth Edition
+173 	Living Artifact 	Enchant Artifact 	G 	Rare 	Anson Maddocks 	English Fifth Edition
+174 	Living Lands 	Enchantment 	3G 	Rare 	John Matson 	English Fifth Edition
+175 	Llanowar Elves 	Summon Elves 1/1 	G 	Common 	Anson Maddocks 	English Fifth Edition
+176 	Lure 	Enchant Creature 	1GG 	Uncommon 	Anson Maddocks 	English Fifth Edition
+177 	Marsh Viper 	Summon Viper 1/2 	3G 	Common 	Ron Spencer 	English Fifth Edition
+178 	Nature's Lore 	Sorcery 	1G 	Common 	Alan Rabinowitz 	English Fifth Edition
+179 	Pradesh Gypsies 	Summon Gypsies 1/1 	2G 	Common 	Quinton Hoover 	English Fifth Edition
+180 	Primal Order 	Enchantment 	2GG 	Rare 	David A. Cherry 	English Fifth Edition
+181 	Rabid Wombat 	Summon Wombat 0/1 	2GG 	Uncommon 	Kaja Foglio 	English Fifth Edition
+182 	Radjan Spirit 	Summon Spirit 3/2 	3G 	Uncommon 	Christopher Rush 	English Fifth Edition
+183 	Regeneration 	Enchant Creature 	1G 	Common 	Quinton Hoover 	English Fifth Edition
+184 	Scaled Wurm 	Summon Wurm 7/6 	7G 	Common 	Daniel Gelon 	English Fifth Edition
+185 	Scavenger Folk 	Summon Scavenger Folk 1/1 	G 	Common 	Jeff Miracola 	English Fifth Edition
+186 	Scryb Sprites 	Summon Faeries 1/1 	G 	Common 	Amy Weber 	English Fifth Edition
+187 	Shanodin Dryads 	Summon Nymphs 1/1 	G 	Common 	Gary Leach 	English Fifth Edition
+188 	Shrink 	Instant 	G 	Common 	Liz Danforth 	English Fifth Edition
+189 	Stampede 	Instant 	1GG 	Rare 	Jeff A. Menges 	English Fifth Edition
+190 	Stream of Life 	Sorcery 	XG 	Common 	Terese Nielsen 	English Fifth Edition
+191 	Sylvan Library 	Enchantment 	1G 	Rare 	Harold McNeill 	English Fifth Edition
+192 	Tarpan 	Summon Tarpan 1/1 	G 	Common 	Margaret Organ-Kean 	English Fifth Edition
+193 	Thicket Basilisk 	Summon Basilisk 2/4 	3GG 	Uncommon 	Dan Frazier 	English Fifth Edition
+194 	Titania's Song 	Enchantment 	3G 	Rare 	D. Alexander Gregory 	English Fifth Edition
+195 	Tranquility 	Sorcery 	2G 	Common 	Douglas Shuler 	English Fifth Edition
+196 	Tsunami 	Sorcery 	3G 	Uncommon 	Richard Thomas 	English Fifth Edition
+197 	Untamed Wilds 	Sorcery 	2G 	Uncommon 	Né Thomas 	English Fifth Edition
+198 	Venom 	Enchant Creature 	1GG 	Common 	Tom Wärstrand 	English Fifth Edition
+199 	Verduran Enchantress 	Summon Enchantress 0/2 	1GG 	Rare 	Kev Brockschmidt 	English Fifth Edition
+200 	Wall of Brambles 	Summon Wall 2/3 	2G 	Uncommon 	Tony Roberts 	English Fifth Edition
+201 	Wanderlust 	Enchant Creature 	2G 	Uncommon 	Rebecca Guay 	English Fifth Edition
+202 	War Mammoth 	Summon Mammoth 3/3 	3G 	Common 	Jeff A. Menges 	English Fifth Edition
+203 	Whirling Dervish 	Summon Dervish 1/1 	GG 	Uncommon 	Susan Van Camp 	English Fifth Edition
+204 	Wild Growth 	Enchant Land 	G 	Common 	Pat Morrissey 	English Fifth Edition
+205 	Winter Blast 	Sorcery 	XG 	Uncommon 	Kaja Foglio 	English Fifth Edition
+206 	Wolverine Pack 	Summon Wolverine Pack 2/4 	2GG 	Uncommon 	Steve White 	English Fifth Edition
+207 	Wyluli Wolf 	Summon Wolf 1/1 	1G 	Rare 	Susan Van Camp 	English Fifth Edition
+208 	Ambush Party 	Summon Ambush Party 3/1 	4R 	Common 	Charles Gillespie 	English Fifth Edition
+209 	Atog 	Summon Atog 1/2 	1R 	Uncommon 	Jesper Myrfors 	English Fifth Edition
+210 	Ball Lightning 	Summon Ball Lightning 6/1 	RRR 	Rare 	Quinton Hoover 	English Fifth Edition
+211 	Bird Maiden 	Summon Bird Maiden 1/2 	2R 	Common 	Kaja Foglio 	English Fifth Edition
+212 	Blood Lust 	Instant 	1R 	Common 	Anson Maddocks 	English Fifth Edition
+213 	Brassclaw Orcs 	Summon Orcs 3/2 	2R 	Common 	Rob Alexander 	English Fifth Edition
+214 	Brothers of Fire 	Summon Brothers 2/2 	1RR 	Common 	Mark Tedin 	English Fifth Edition
+215 	Cave People 	Summon Cave People 1/4 	1RR 	Uncommon 	Steve Luke 	English Fifth Edition
+216 	Conquer 	Enchant Land 	3RR 	Uncommon 	Gary Leach 	English Fifth Edition
+217 	Crimson Manticore 	Summon Manticore 2/2 	2RR 	Rare 	Roger Raupp 	English Fifth Edition
+218 	Detonate 	Sorcery 	XR 	Uncommon 	Randy Asplund 	English Fifth Edition
+219 	Disintegrate 	Sorcery 	XR 	Common 	Anson Maddocks 	English Fifth Edition
+220 	Dwarven Catapult 	Instant 	XR 	Uncommon 	Jeff A. Menges 	English Fifth Edition
+221 	Dwarven Soldier 	Summon Dwarf 2/1 	1R 	Common 	Randy Asplund 	English Fifth Edition
+222 	Dwarven Warriors 	Summon Dwarves 1/1 	2R 	Common 	Douglas Shuler 	English Fifth Edition
+223 	Earthquake 	Sorcery 	XR 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+224 	Errantry 	Enchant Creature 	1R 	Common 	Scott Kirschner 	English Fifth Edition
+225 	Eternal Warrior 	Enchant Creature 	R 	Common 	Anson Maddocks 	English Fifth Edition
+226 	Fire Drake 	Summon Drake 1/2 	1RR 	Uncommon 	Christopher Rush 	English Fifth Edition
+227 	Fireball 	Sorcery 	XR 	Common 	Mark Tedin 	English Fifth Edition
+228 	Firebreathing 	Enchant Creature 	R 	Common 	Dan Frazier 	English Fifth Edition
+229 	Flame Spirit 	Summon Spirit 2/3 	4R 	Uncommon 	Justin Hampton 	English Fifth Edition
+230 	Flare 	Instant 	2R 	Common 	Andrew Robinson 	English Fifth Edition
+231 	Flashfires 	Sorcery 	3R 	Uncommon 	Dameon Willich 	English Fifth Edition
+232 	Game of Chaos 	Sorcery 	RRR 	Rare 	Thomas Gianni 	English Fifth Edition
+233 	Giant Strength 	Enchant Creature 	RR 	Common 	Kev Walker 	English Fifth Edition
+234 	Goblin Digging Team 	Summon Goblins 1/1 	R 	Common 	Phil Foglio 	English Fifth Edition
+235 	Goblin Hero 	Summon Goblin 2/2 	2R 	Common 	Pete Venters 	English Fifth Edition
+236 	Goblin King 	Summon Lord 2/2 	1RR 	Rare 	Phil Foglio 	English Fifth Edition
+237 	Goblin War Drums 	Enchantment 	2R 	Common 	Dan Frazier 	English Fifth Edition
+238 	Goblin Warrens 	Enchantment 	2R 	Rare 	Dan Frazier 	English Fifth Edition
+239 	Hill Giant 	Summon Giant 3/3 	3R 	Common 	Charles Gillespie 	English Fifth Edition
+240 	Hurloon Minotaur 	Summon Minotaur 2/3 	1RR 	Common 	Anson Maddocks 	English Fifth Edition
+241 	Imposing Visage 	Enchant Creature 	R 	Common 	Brian Snõ 	English Fifth Edition
+242 	Incinerate 	Instant 	1R 	Common 	Scott M. Fischer 	English Fifth Edition
+243 	Inferno 	Instant 	5RR 	Rare 	Mike Kerr 	English Fifth Edition
+244 	Ironclaw Curse 	Enchant Creature 	R 	Rare 	Dennis Detwiller 	English Fifth Edition
+245 	Ironclaw Orcs 	Summon Orcs 2/2 	1R 	Common 	Anson Maddocks 	English Fifth Edition
+246 	Jokulhaups 	Sorcery 	4RR 	Rare 	Mike Kerr 	English Fifth Edition
+247 	Keldon Warlord 	Summon Lord */* 	2RR 	Uncommon 	Kev Brockschmidt 	English Fifth Edition
+248 	Mana Clash 	Sorcery 	R 	Rare 	Mark Tedin 	English Fifth Edition
+249 	Mana Flare 	Enchantment 	2R 	Rare 	Christopher Rush 	English Fifth Edition
+250 	Manabarbs 	Enchantment 	3R 	Rare 	Greg Simanson 	English Fifth Edition
+251 	Mons's Goblin Raiders 	Summon Goblins 1/1 	R 	Common 	Pete Venters 	English Fifth Edition
+252 	Mountain Goat 	Summon Goat 1/1 	R 	Common 	Cornelius Brudi 	English Fifth Edition
+253 	Orcish Artillery 	Summon Orcs 1/3 	1RR 	Uncommon 	Dan Frazier 	English Fifth Edition
+254 	Orcish Captain 	Summon Orc 1/1 	R 	Uncommon 	Charles Gillespie 	English Fifth Edition
+255 	Orcish Conscripts 	Summon Orcs 2/2 	R 	Common 	Douglas Shuler 	English Fifth Edition
+256 	Orcish Farmer 	Summon Orc 2/2 	1RR 	Common 	Dan Frazier 	English Fifth Edition
+257 	Orcish Oriflamme 	Enchantment 	3R 	Uncommon 	Dan Frazier 	English Fifth Edition
+258 	Orcish Squatters 	Summon Orcs 2/3 	4R 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+259 	Orgg 	Summon Orgg 6/6 	3RR 	Rare 	Daniel Gelon 	English Fifth Edition
+260 	Panic 	Instant 	R 	Common 	Greg Simanson 	English Fifth Edition
+261 	Primordial Ooze 	Summon Ooze 1/1 	R 	Uncommon 	Randy Gallegos 	English Fifth Edition
+262 	Pyroblast 	Interrupt 	R 	Uncommon 	Kaja Foglio 	English Fifth Edition
+263 	Pyrotechnics 	Sorcery 	4R 	Uncommon 	Anson Maddocks 	English Fifth Edition
+264 	Sabretooth Tiger 	Summon Tiger 2/1 	2R 	Common 	Melissa A. Benson 	English Fifth Edition
+265 	Shatter 	Instant 	1R 	Common 	Hannibal King 	English Fifth Edition
+266 	Shatterstorm 	Sorcery 	2RR 	Rare 	James Allen 	English Fifth Edition
+267 	Shivan Dragon 	Summon Dragon 5/5 	4RR 	Rare 	Melissa A. Benson 	English Fifth Edition
+268 	Smoke 	Enchantment 	RR 	Rare 	Tom Kyffin 	English Fifth Edition
+269 	Stone Giant 	Summon Giant 3/4 	2RR 	Uncommon 	James Allen 	English Fifth Edition
+270 	Stone Rain 	Sorcery 	2R 	Common 	Tony Roberts 	English Fifth Edition
+271 	Stone Spirit 	Summon Spirit 4/3 	4R 	Uncommon 	James Allen 	English Fifth Edition
+272 	The Brute 	Enchant Creature 	1R 	Common 	Douglas Shuler 	English Fifth Edition
+273 	Wall of Fire 	Summon Wall 0/5 	1RR 	Uncommon 	Tony Roberts 	English Fifth Edition
+274 	Wall of Stone 	Summon Wall 0/8 	1RR 	Uncommon 	Thomas Gianni 	English Fifth Edition
+275 	Winds of Change 	Sorcery 	R 	Rare 	Blackie del Rio 	English Fifth Edition
+276 	Word of Blasting 	Instant 	1R 	Uncommon 	Ken Meyer, Jr. 	English Fifth Edition
+277 	Abbey Gargoyles 	Summon Gargoyles 3/4 	2WWW 	Uncommon 	Christopher Rush 	English Fifth Edition
+278 	Akron Legionnaire 	Summon Legionnaire 8/4 	6WW 	Rare 	Mark Poole 	English Fifth Edition
+279 	Alabaster Potion 	Instant 	XWW 	Common 	Harold McNeill 	English Fifth Edition
+280 	Angry Mob 	Summon Mob 2+*/2+* 	2WW 	Uncommon 	Drew Tucker 	English Fifth Edition
+281 	Animate Wall 	Enchant Creature 	W 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+282 	Arenson's Aura 	Enchantment 	2W 	Uncommon 	D. Alexander Gregory 	English Fifth Edition
+283 	Armageddon 	Sorcery 	3W 	Rare 	Jesper Myrfors 	English Fifth Edition
+284 	Armor of Faith 	Enchant Creature 	W 	Common 	Anson Maddocks 	English Fifth Edition
+285 	Aysen Bureaucrats 	Summon Bureaucrats 1/1 	1W 	Common 	Adrian Smith 	English Fifth Edition
+286 	Benalish Hero 	Summon Hero 1/1 	W 	Common 	Douglas Shuler 	English Fifth Edition
+287 	Blessed Wine 	Instant 	1W 	Common 	Kaja Foglio 	English Fifth Edition
+288 	Blinking Spirit 	Summon Blinking Spirit 2/2 	3W 	Rare 	L. A. Williams 	English Fifth Edition
+289 	Brainwash 	Enchant Creature 	W 	Common 	Terese Nielsen 	English Fifth Edition
+290 	Caribou Range 	Enchant Land 	2WW 	Rare 	Una Fricker 	English Fifth Edition
+291 	Castle 	Enchantment 	3W 	Uncommon 	David O'Connor 	English Fifth Edition
+292 	Circle of Protection: Artifacts 	Enchantment 	1W 	Uncommon 	Pete Venters 	English Fifth Edition
+293 	Circle of Protection: Black 	Enchantment 	1W 	Common 	Gerry Grace 	English Fifth Edition
+294 	Circle of Protection: Blue 	Enchantment 	1W 	Common 	Gerry Grace 	English Fifth Edition
+295 	Circle of Protection: Green 	Enchantment 	1W 	Common 	Gerry Grace 	English Fifth Edition
+296 	Circle of Protection: Red 	Enchantment 	1W 	Common 	Gerry Grace 	English Fifth Edition
+297 	Circle of Protection: White 	Enchantment 	1W 	Common 	Gerry Grace 	English Fifth Edition
+298 	Crusade 	Enchantment 	WW 	Rare 	D. Alexander Gregory 	English Fifth Edition
+299 	D'Avenant Archer 	Summon Archer 1/2 	2W 	Common 	Douglas Shuler 	English Fifth Edition
+300 	Death Speakers 	Summon Speakers 1/1 	W 	Common 	Andrew Robinson 	English Fifth Edition
+301 	Death Ward 	Instant 	W 	Common 	Mark Poole 	English Fifth Edition
+302 	Disenchant 	Instant 	1W 	Common 	Brian Snõ 	English Fifth Edition
+303 	Divine Offering 	Instant 	1W 	Common 	Jeff A. Menges 	English Fifth Edition
+304 	Divine Transformation 	Enchant Creature 	2WW 	Uncommon 	Né Thomas 	English Fifth Edition
+305 	Dust to Dust 	Sorcery 	1WW 	Uncommon 	Doug Keith 	English Fifth Edition
+306 	Eye for an Eye 	Instant 	WW 	Rare 	Mark Poole 	English Fifth Edition
+307 	Greater Realm of Preservation 	Enchantment 	1W 	Uncommon 	Steve Luke 	English Fifth Edition
+308 	Heal 	Instant 	W 	Common 	Mark Tedin 	English Fifth Edition
+309 	Healing Salve 	Instant 	W 	Common 	Zina Saunders 	English Fifth Edition
+310 	Hipparion 	Summon Hipparion 1/3 	1W 	Common 	Margaret Organ-Kean 	English Fifth Edition
+311 	Holy Strength 	Enchant Creature 	W 	Common 	Anson Maddocks 	English Fifth Edition
+312 	Icatian Phalanx 	Summon Soldiers 2/4 	4W 	Uncommon 	Kaja Foglio 	English Fifth Edition
+313 	Icatian Scout 	Summon Soldier 1/1 	W 	Common 	Rob Alexander 	English Fifth Edition
+314 	Icatian Town 	Sorcery 	5W 	Rare 	Tom Wärstrand 	English Fifth Edition
+315 	Island Sanctuary 	Enchantment 	1W 	Rare 	Mark Poole 	English Fifth Edition
+316 	Ivory Guardians 	Summon Guardians 3/3 	4WW 	Uncommon 	Adam Rex 	English Fifth Edition
+317 	Justice 	Enchantment 	2WW 	Uncommon 	Ruth Thompson 	English Fifth Edition
+318 	Karma 	Enchantment 	2WW 	Uncommon 	Bob Eggleton 	English Fifth Edition
+319 	Kismet 	Enchantment 	3W 	Uncommon 	Kaja Foglio 	English Fifth Edition
+320 	Kjeldoran Royal Guard 	Summon Soldiers 2/5 	3WW 	Rare 	L. A. Williams 	English Fifth Edition
+321 	Kjeldoran Skycaptain 	Summon Soldier 2/2 	4W 	Uncommon 	Mark Poole 	English Fifth Edition
+322 	Mesa Falcon 	Summon Falcon 1/1 	1W 	Common 	Mark Poole 	English Fifth Edition
+323 	Mesa Pegasus 	Summon Pegasus 1/1 	1W 	Common 	Melissa A. Benson 	English Fifth Edition
+324 	Order of the Sacred Torch 	Summon Paladin 2/2 	1WW 	Rare 	Ruth Thompson 	English Fifth Edition
+325 	Order of the White Shield 	Summon Knights 2/1 	WW 	Uncommon 	Ruth Thompson 	English Fifth Edition
+326 	Pearled Unicorn 	Summon Unicorn 2/2 	2W 	Common 	David A. Cherry 	English Fifth Edition
+327 	Personal Incarnation 	Summon Avatar 6/6 	3WWW 	Rare 	Kev Walker 	English Fifth Edition
+328 	Pikemen 	Summon Pikemen 1/1 	1W 	Common 	Dan Frazier 	English Fifth Edition
+329 	Prismatic Ward 	Enchant Creature 	1W 	Common 	Zina Saunders 	English Fifth Edition
+330 	Repentant Blacksmith 	Summon Smith 1/2 	1W 	Common 	Drew Tucker 	English Fifth Edition
+331 	Reverse Damage 	Instant 	1WW 	Rare 	Thomas Gianni 	English Fifth Edition
+332 	Righteousness 	Instant 	W 	Rare 	Mike Dringenberg 	English Fifth Edition
+333 	Sacred Boon 	Instant 	1W 	Uncommon 	Mike Raabe 	English Fifth Edition
+334 	Samite Healer 	Summon Cleric 1/1 	1W 	Common 	Tom Wärstrand 	English Fifth Edition
+335 	Seraph 	Summon Angel 4/4 	6W 	Rare 	D. Alexander Gregory 	English Fifth Edition
+336 	Serra Bestiary 	Enchant Creature 	WW 	Uncommon 	Steve Luke 	English Fifth Edition
+337 	Serra Paladin 	Summon Paladin 2/2 	2WW 	Uncommon 	Pete Venters 	English Fifth Edition
+338 	Shield Bearer 	Summon Soldier 0/3 	1W 	Common 	Dan Frazier 	English Fifth Edition
+339 	Shield Wall 	Instant 	1W 	Common 	Scott Kirschner 	English Fifth Edition
+340 	Spirit Link 	Enchant Creature 	W 	Uncommon 	Kaja Foglio 	English Fifth Edition
+341 	Truce 	Instant 	2W 	Rare 	Donato Giancola 	English Fifth Edition
+342 	Tundra Wolves 	Summon Wolves 1/1 	W 	Common 	Quinton Hoover 	English Fifth Edition
+343 	Wall of Swords 	Summon Wall 3/5 	3W 	Uncommon 	Brian Snõ 	English Fifth Edition
+344 	White Knight 	Summon Knight 2/2 	WW 	Uncommon 	Daniel Gelon 	English Fifth Edition
+345 	Wrath of God 	Sorcery 	2WW 	Rare 	Quinton Hoover 	English Fifth Edition
+346 	Aladdin's Ring 	Artifact 	8 	Rare 	Stuart Griffin 	English Fifth Edition
+347 	Amulet of Kroog 	Artifact 	2 	Common 	Margaret Organ-Kean 	English Fifth Edition
+348 	Ankh of Mishra 	Artifact 	2 	Rare 	Ian Miller 	English Fifth Edition
+349 	Ashnod's Altar 	Artifact 	3 	Uncommon 	Anson Maddocks 	English Fifth Edition
+350 	Ashnod's Transmogrant 	Artifact 	1 	Common 	Mark Tedin 	English Fifth Edition
+351 	Barbed Sextant 	Artifact 	1 	Common 	Amy Weber 	English Fifth Edition
+352 	Barl's Cage 	Artifact 	4 	Rare 	Tom Wärstrand 	English Fifth Edition
+353 	Battering Ram 	Artifact Creature 1/1 	2 	Common 	Jeff A. Menges 	English Fifth Edition
+354 	Bottle of Suleiman 	Artifact 	4 	Rare 	DiTerlizzi 	English Fifth Edition
+355 	Clay Statue 	Artifact Creature 3/1 	4 	Common 	Adam Rex 	English Fifth Edition
+356 	Clockwork Beast 	Artifact Creature 0/4 	6 	Rare 	Drew Tucker 	English Fifth Edition
+357 	Clockwork Steed 	Artifact Creature 0/3 	4 	Uncommon 	Terese Nielsen 	English Fifth Edition
+358 	Colossus of Sardia 	Artifact Creature 9/9 	9 	Rare 	Hannibal King 	English Fifth Edition
+359 	Coral Helm 	Artifact 	3 	Rare 	Steve Luke 	English Fifth Edition
+360 	Crown of the Ages 	Artifact 	2 	Rare 	Roger Raupp 	English Fifth Edition
+361 	Crystal Rod 	Artifact 	1 	Uncommon 	Donato Giancola 	English Fifth Edition
+362 	Dancing Scimitar 	Artifact Creature 1/5 	4 	Rare 	Anson Maddocks 	English Fifth Edition
+363 	Diabolic Machine 	Artifact Creature 4/4 	7 	Uncommon 	James Allen 	English Fifth Edition
+364 	Dingus Egg 	Artifact 	4 	Rare 	Randy Gallegos 	English Fifth Edition
+365 	Disrupting Scepter 	Artifact 	3 	Rare 	Stuart Griffin 	English Fifth Edition
+366 	Dragon Engine 	Artifact Creature 1/3 	3 	Rare 	Anson Maddocks 	English Fifth Edition
+367 	Elkin Bottle 	Artifact 	3 	Rare 	Quinton Hoover 	English Fifth Edition
+368 	Feldon's Cane 	Artifact 	1 	Uncommon 	Mark Tedin 	English Fifth Edition
+369 	Fellwar Stone 	Artifact 	2 	Uncommon 	Quinton Hoover 	English Fifth Edition
+370 	Feroz's Ban 	Artifact 	6 	Rare 	Heather Hudson 	English Fifth Edition
+371 	Flying Carpet 	Artifact 	4 	Rare 	Mark Tedin 	English Fifth Edition
+372 	Fountain of Youth 	Artifact 	0 	Uncommon 	Daniel Gelon 	English Fifth Edition
+373 	Gauntlets of Chaos 	Artifact 	5 	Rare 	Alan Rabinowitz 	English Fifth Edition
+374 	Glasses of Urza 	Artifact 	1 	Uncommon 	Douglas Shuler 	English Fifth Edition
+375 	Grapeshot Catapult 	Artifact Creature 2/3 	4 	Common 	Dan Frazier 	English Fifth Edition
+376 	Helm of Chatzuk 	Artifact 	1 	Rare 	Mark Tedin 	English Fifth Edition
+377 	Howling Mine 	Artifact 	2 	Rare 	Mark Poole 	English Fifth Edition
+378 	Infinite Hourglass 	Artifact 	4 	Rare 	Adam Rex 	English Fifth Edition
+379 	Iron Star 	Artifact 	1 	Uncommon 	Donato Giancola 	English Fifth Edition
+380 	Ivory Cup 	Artifact 	1 	Uncommon 	Donato Giancola 	English Fifth Edition
+381 	Jade Monolith 	Artifact 	4 	Rare 	Richard Kane Ferguson 	English Fifth Edition
+382 	Jalum Tome 	Artifact 	3 	Rare 	Tom Wärstrand 	English Fifth Edition
+383 	Jandor's Saddlebags 	Artifact 	2 	Rare 	Roger Raupp 	English Fifth Edition
+384 	Jayemdae Tome 	Artifact 	4 	Rare 	Mark Tedin 	English Fifth Edition
+385 	Jester's Cap 	Artifact 	4 	Rare 	Dan Frazier 	English Fifth Edition
+386 	Joven's Tools 	Artifact 	6 	Uncommon 	Zina Saunders 	English Fifth Edition
+387 	Library of Leng 	Artifact 	1 	Uncommon 	Daniel Gelon 	English Fifth Edition
+388 	Mana Vault 	Artifact 	1 	Rare 	Mark Tedin 	English Fifth Edition
+389 	Meekstone 	Artifact 	1 	Rare 	Quinton Hoover 	English Fifth Edition
+390 	Millstone 	Artifact 	2 	Rare 	Kaja Foglio 	English Fifth Edition
+391 	Nevinyrral's Disk 	Artifact 	4 	Rare 	Mark Tedin 	English Fifth Edition
+392 	Obelisk of Undoing 	Artifact 	1 	Rare 	Tom Wärstrand 	English Fifth Edition
+393 	Ornithopter 	Artifact Creature 0/2 	0 	Uncommon 	Amy Weber 	English Fifth Edition
+394 	Pentagram of the Ages 	Artifact 	4 	Rare 	Douglas Shuler 	English Fifth Edition
+395 	Primal Clay 	Artifact Creature */* 	4 	Rare 	Adam Rex 	English Fifth Edition
+396 	Rod of Ruin 	Artifact 	4 	Uncommon 	Christopher Rush 	English Fifth Edition
+397 	Serpent Generator 	Artifact 	6 	Rare 	Mark Tedin 	English Fifth Edition
+398 	Shapeshifter 	Artifact Creature */7-* 	6 	Uncommon 	Adrian Smith 	English Fifth Edition
+399 	Skull Catapult 	Artifact 	4 	Uncommon 	Ian Miller 	English Fifth Edition
+400 	Soul Net 	Artifact 	1 	Uncommon 	Andrew Robinson 	English Fifth Edition
+401 	Tawnos's Weaponry 	Artifact 	2 	Uncommon 	John Coulthart 	English Fifth Edition
+402 	The Hive 	Artifact 	5 	Rare 	Sandra Everingham 	English Fifth Edition
+403 	Throne of Bone 	Artifact 	1 	Uncommon 	Donato Giancola 	English Fifth Edition
+404 	Time Bomb 	Artifact 	4 	Rare 	George Pratt 	English Fifth Edition
+405 	Urza's Avenger 	Artifact Creature 4/4 	6 	Rare 	Amy Weber 	English Fifth Edition
+406 	Urza's Bauble 	Artifact 	0 	Uncommon 	Christopher Rush 	English Fifth Edition
+407 	Wall of Spears 	Artifact Creature 2/3 	3 	Common 	Zak Plucinski 	English Fifth Edition
+408 	Winter Orb 	Artifact 	2 	Rare 	Mark Tedin 	English Fifth Edition
+409 	Wooden Sphere 	Artifact 	1 	Uncommon 	Donato Giancola 	English Fifth Edition
+410 	Adarkar Wastes 	Land 		Rare 	Gary Leach 	English Fifth Edition
+411 	Bottomless Vault 	Land 		Rare 	David Seeley 	English Fifth Edition
+412 	Brushland 	Land 		Rare 	Tom Wärstrand 	English Fifth Edition
+413 	City of Brass 	Land 		Rare 	Tom Wärstrand 	English Fifth Edition
+414 	Dwarven Hold 	Land 		Rare 	David Seeley 	English Fifth Edition
+415 	Dwarven Ruins 	Land 		Uncommon 	Liz Danforth 	English Fifth Edition
+416 	Ebon Stronghold 	Land 		Uncommon 	Liz Danforth 	English Fifth Edition
+417 	Forest 	Land 		Land 	David O'Connor 	English Fifth Edition
+418 	Forest 	Land 		Land 	David O'Connor 	English Fifth Edition
+419 	Forest 	Land 		Land 	David O'Connor 	English Fifth Edition
+420 	Forest 	Land 		Land 	David O'Connor 	English Fifth Edition
+421 	Havenwood Battleground 	Land 		Uncommon 	Liz Danforth 	English Fifth Edition
+422 	Hollow Trees 	Land 		Rare 	David Seeley 	English Fifth Edition
+423 	Icatian Store 	Land 		Rare 	David Seeley 	English Fifth Edition
+424 	Ice Floe 	Land 		Uncommon 	John Avon 	English Fifth Edition
+425 	Island 	Land 		Land 	J. W. Frost 	English Fifth Edition
+426 	Island 	Land 		Land 	J. W. Frost 	English Fifth Edition
+427 	Island 	Land 		Land 	J. W. Frost 	English Fifth Edition
+428 	Island 	Land 		Land 	J. W. Frost 	English Fifth Edition
+429 	Karplusan Forest 	Land 		Rare 	Randy Gallegos 	English Fifth Edition
+430 	Mountain 	Land 		Land 	John Avon 	English Fifth Edition
+431 	Mountain 	Land 		Land 	John Avon 	English Fifth Edition
+432 	Mountain 	Land 		Land 	John Avon 	English Fifth Edition
+433 	Mountain 	Land 		Land 	John Avon 	English Fifth Edition
+434 	Plains 	Land 		Land 	Pat Morrissey 	English Fifth Edition
+435 	Plains 	Land 		Land 	Pat Morrissey 	English Fifth Edition
+436 	Plains 	Land 		Land 	Pat Morrissey 	English Fifth Edition
+437 	Plains 	Land 		Land 	Pat Morrissey 	English Fifth Edition
+438 	Ruins of Trokair 	Land 		Uncommon 	Liz Danforth 	English Fifth Edition
+439 	Sand Silos 	Land 		Rare 	David Seeley 	English Fifth Edition
+440 	Sulfurous Springs 	Land 		Rare 	Jeff Miracola 	English Fifth Edition
+441 	Svyelunite Temple 	Land 		Uncommon 	Liz Danforth 	English Fifth Edition
+442 	Swamp 	Land 		Land 	Andrew Robinson 	English Fifth Edition
+443 	Swamp 	Land 		Land 	Andrew Robinson 	English Fifth Edition
+444 	Swamp 	Land 		Land 	Andrew Robinson 	English Fifth Edition
+445 	Swamp 	Land 		Land 	Andrew Robinson 	English Fifth Edition
+446 	Underground River 	Land 		Rare 	Jeff Miracola 	English Fifth Edition
+447 	Urza's Mine 	Land 		Common 	Anson Maddocks 	English Fifth Edition
+448 	Urza's Power Plant 	Land 		Common 	Mark Tedin 	English Fifth Edition
+449 	Urza's Tower 	Land 		Common 	Mark Poole 	English Fifth Edition

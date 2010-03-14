@@ -1,0 +1,165 @@
+1 	Auriok Glaivemaster 	Creature - Human Soldier 1/1 	W 	Common 	John Matson 	English Darksteel
+2 	Echoing Calm 	Instant 	1W 	Common 	Greg Staples 	English Darksteel
+3 	Emissary of Hope 	Creature - Spirit 2/1 	1WW 	Uncommon 	rk post 	English Darksteel
+4 	Hallow 	Instant 	W 	Common 	Alex Horley-Orlandelli 	English Darksteel
+5 	Leonin Battlemage 	Creature - Cat Wizard 2/3 	3W 	Uncommon 	Stephen Tappin 	English Darksteel
+6 	Leonin Shikari 	Creature - Cat Soldier 2/2 	1W 	Rare 	Wayne England 	English Darksteel
+7 	Loxodon Mystic 	Creature - Elephant Cleric 3/3 	3WW 	Common 	Edward P. Beard, Jr. 	English Darksteel
+8 	Metal Fatigue 	Instant 	2W 	Common 	Arnie Swekel 	English Darksteel
+9 	Pristine Angel 	Creature - Angel 4/4 	4WW 	Rare 	Scott M. Fischer 	English Darksteel
+10 	Pteron Ghost 	Creature - Spirit 1/1 	1W 	Common 	Edward P. Beard, Jr. 	English Darksteel
+11 	Pulse of the Fields 	Instant 	1WW 	Rare 	Paolo Parente 	English Darksteel
+12 	Purge 	Instant 	1W 	Uncommon 	Pete Venters 	English Darksteel
+13 	Ritual of Restoration 	Sorcery 	W 	Common 	Dany Orizio 	English Darksteel
+14 	Soulscour 	Sorcery 	7WWW 	Rare 	Kev Walker 	English Darksteel
+15 	Steelshaper Apprentice 	Creature - Human Soldier 1/3 	2WW 	Rare 	Tim Hildebrandt 	English Darksteel
+16 	Stir the Pride 	Instant 	4W 	Uncommon 	Matt Cavotta 	English Darksteel
+17 	Test of Faith 	Instant 	1W 	Uncommon 	Vance Kovacs 	English Darksteel
+18 	Turn the Tables 	Instant 	3WW 	Rare 	Christopher Moeller 	English Darksteel
+19 	Carry Away 	Enchant Equipment 	UU 	Uncommon 	Jim Nelson 	English Darksteel
+20 	Chromescale Drake 	Creature - Drake 3/4 	6UUU 	Rare 	Ben Thompson 	English Darksteel
+21 	Echoing Truth 	Instant 	1U 	Common 	Greg Staples 	English Darksteel
+22 	Hoverguard Observer 	Creature - Drone 3/3 	2UU 	Uncommon 	Kev Walker 	English Darksteel
+23 	Last Word 	Instant 	2UU 	Rare 	Scott M. Fischer 	English Darksteel
+24 	Machinate 	Instant 	1UU 	Common 	Wayne England 	English Darksteel
+25 	Magnetic Flux 	Instant 	2U 	Common 	Alan Rabinowitz 	English Darksteel
+26 	Neurok Prodigy 	Creature - Human Wizard 2/1 	2U 	Common 	Puddnhead 	English Darksteel
+27 	Neurok Transmuter 	Creature - Human Wizard 2/2 	2U 	Uncommon 	Mark Zug 	English Darksteel
+28 	Psychic Overload 	Enchant Permanent 	3U 	Uncommon 	Jeremy Jarvis 	English Darksteel
+29 	Pulse of the Grid 	Instant 	1UU 	Rare 	Wayne England 	English Darksteel
+30 	Quicksilver Behemoth 	Creature - Beast 4/5 	6U 	Common 	Anthony S. Waters 	English Darksteel
+31 	Reshape 	Sorcery 	XUU 	Rare 	Jon Foster 	English Darksteel
+32 	Retract 	Instant 	U 	Rare 	Matt Cavotta 	English Darksteel
+33 	Second Sight 	Instant 	2U 	Uncommon 	Luca Zontini 	English Darksteel
+34 	Synod Artificer 	Creature - Vedalken Artificer 1/2 	2U 	Rare 	Mark Zug 	English Darksteel
+35 	Vedalken Engineer 	Creature - Vedalken Artificer 1/1 	1U 	Common 	Lars Grant-West 	English Darksteel
+36 	Vex 	Instant 	2U 	Common 	Brian Snõ 	English Darksteel
+37 	Æher Snap 	Sorcery 	3BB 	Rare 	Kev Walker 	English Darksteel
+38 	Burden of Greed 	Instant 	3B 	Common 	Vance Kovacs 	English Darksteel
+39 	Chittering Rats 	Creature - Rat 2/2 	1BB 	Common 	Tom Wärstrand 	English Darksteel
+40 	Death Cloud 	Sorcery 	XBBB 	Rare 	Stephen Tappin 	English Darksteel
+41 	Echoing Decay 	Instant 	1B 	Common 	Greg Staples 	English Darksteel
+42 	Emissary of Despair 	Creature - Spirit 2/1 	1BB 	Uncommon 	rk post 	English Darksteel
+43 	Essence Drain 	Sorcery 	4B 	Common 	Tony Szczudlo 	English Darksteel
+44 	Greater Harvester 	Creature - Horror 5/6 	2BBB 	Rare 	Daren Bader 	English Darksteel
+45 	Grimclaw Bats 	Creature - Bat 1/1 	1B 	Common 	Tom Wärstrand 	English Darksteel
+46 	Hunger of the Nim 	Sorcery 	1B 	Common 	Puddnhead 	English Darksteel
+47 	Mephitic Ooze 	Creature - Ooze 0/5 	4B 	Rare 	Alex Horley-Orlandelli 	English Darksteel
+48 	Murderous Spoils 	Instant 	5B 	Uncommon 	Adam Rex 	English Darksteel
+49 	Nim Abomination 	Creature - Zombie 3/4 	2B 	Uncommon 	Jim Murray 	English Darksteel
+50 	Pulse of the Dross 	Sorcery 	1BB 	Rare 	Paolo Parente 	English Darksteel
+51 	Scavenging Scarab 	Creature - Insect 3/3 	3B 	Common 	Jeff Easley 	English Darksteel
+52 	Screams from Within 	Enchant Creature 	1BB 	Uncommon 	Hugh Jamieson 	English Darksteel
+53 	Scrounge 	Sorcery 	2B 	Uncommon 	Pete Venters 	English Darksteel
+54 	Shriveling Rot 	Instant 	2BB 	Rare 	Alex Horley-Orlandelli 	English Darksteel
+55 	Barbed Lightning 	Instant 	2R 	Common 	Hugh Jamieson 	English Darksteel
+56 	Crazed Goblin 	Creature - Goblin Warrior 1/1 	R 	Common 	Darrell Riche 	English Darksteel
+57 	Dismantle 	Sorcery 	2R 	Uncommon 	Brian Snõ 	English Darksteel
+58 	Drooling Ogre 	Creature - Ogre 3/3 	1R 	Common 	Brian Snõ 	English Darksteel
+59 	Echoing Ruin 	Sorcery 	1R 	Common 	Greg Staples 	English Darksteel
+60 	Fireball 	Sorcery 	XR 	Uncommon 	Dave Dorman 	English Darksteel
+61 	Flamebreak 	Sorcery 	RRR 	Rare 	Trevor Hairsine 	English Darksteel
+62 	Furnace Dragon 	Creature - Dragon 5/5 	6RRR 	Rare 	Matthew D. Wilson 	English Darksteel
+63 	Goblin Archaeologist 	Creature - Goblin Artificer 1/2 	1R 	Uncommon 	Jim Nelson 	English Darksteel
+64 	Inflame 	Instant 	R 	Common 	Hugh Jamieson 	English Darksteel
+65 	Krark-Clan Stoker 	Creature - Goblin Shaman 2/2 	2R 	Common 	Pete Venters 	English Darksteel
+66 	Pulse of the Forge 	Instant 	1RR 	Rare 	Paolo Parente 	English Darksteel
+67 	Savage Beating 	Instant 	3RR 	Rare 	Matt Thompson 	English Darksteel
+68 	Shunt 	Instant 	1RR 	Rare 	Greg Hildebrandt 	English Darksteel
+69 	Slobad, Goblin Tinkerer 	Creature - Goblin Artificer Legend 1/2 	1R 	Rare 	Kev Walker 	English Darksteel
+70 	Tears of Rage 	Instant 	2RR 	Uncommon 	Pete Venters 	English Darksteel
+71 	Unforge 	Instant 	2R 	Common 	Kev Walker 	English Darksteel
+72 	Vulshok War Boar 	Creature - Beast 5/5 	2RR 	Uncommon 	Pete Venters 	English Darksteel
+73 	Ageless Entity 	Creature - Elemental 4/4 	3GG 	Rare 	Jeff Miracola 	English Darksteel
+74 	Echoing Courage 	Instant 	1G 	Common 	Greg Staples 	English Darksteel
+75 	Fangren Firstborn 	Creature - Beast 4/2 	1GGG 	Rare 	Tim Hildebrandt 	English Darksteel
+76 	Infested Roothold 	Creature - Wall 0/3 	4G 	Uncommon 	Terese Nielsen 	English Darksteel
+77 	Karstoderm 	Creature - Beast 0/0 	2GG 	Uncommon 	Tony Szczudlo 	English Darksteel
+78 	Nourish 	Instant 	GG 	Common 	Scott M. Fischer 	English Darksteel
+79 	Oxidize 	Instant 	G 	Uncommon 	Kev Walker 	English Darksteel
+80 	Pulse of the Tangle 	Sorcery 	1GG 	Rare 	Wayne England 	English Darksteel
+81 	Reap and Sow 	Sorcery 	3G 	Common 	Rob Alexander 	English Darksteel
+82 	Rebuking Ceremony 	Sorcery 	3GG 	Rare 	Ittoku 	English Darksteel
+83 	Roaring Slagwurm 	Creature - Wurm 6/4 	5GG 	Rare 	David Martin 	English Darksteel
+84 	Stand Together 	Instant 	3GG 	Uncommon 	Luca Zontini 	English Darksteel
+85 	Tangle Spider 	Creature - Spider 3/4 	4GG 	Common 	Terese Nielsen 	English Darksteel
+86 	Tanglewalker 	Creature - Dryad 2/2 	2G 	Uncommon 	Pete Venters 	English Darksteel
+87 	Tel-Jilad Outrider 	Creature - Elf Warrior 3/1 	3G 	Common 	Paolo Parente 	English Darksteel
+88 	Tel-Jilad Wolf 	Creature - Wolf 2/2 	2G 	Common 	Paolo Parente 	English Darksteel
+89 	Viridian Acolyte 	Creature - Elf Shaman 1/1 	G 	Common 	D. Alexander Gregory 	English Darksteel
+90 	Viridian Zealot 	Creature - Elf Warrior 2/1 	GG 	Rare 	Kev Walker 	English Darksteel
+91 	Æher Vial 	Artifact 	1 	Uncommon 	Greg Hildebrandt 	English Darksteel
+92 	Angel's Feather 	Artifact 	2 	Uncommon 	Alan Pollack 	English Darksteel
+93 	Arcane Spyglass 	Artifact 	4 	Common 	Trevor Hairsine 	English Darksteel
+94 	Arcbound Bruiser 	Artifact Creature 0/0 	5 	Common 	Christopher Moeller 	English Darksteel
+95 	Arcbound Crusher 	Artifact Creature 0/0 	4 	Uncommon 	Michael Sutfin 	English Darksteel
+96 	Arcbound Fiend 	Artifact Creature 0/0 	6 	Uncommon 	Ittoku 	English Darksteel
+97 	Arcbound Hybrid 	Artifact Creature 0/0 	4 	Common 	Alan Pollack 	English Darksteel
+98 	Arcbound Lancer 	Artifact Creature 0/0 	7 	Uncommon 	John Avon 	English Darksteel
+99 	Arcbound Overseer 	Artifact Creature - Golem 0/0 	8 	Rare 	Carl Critchlow 	English Darksteel
+100 	Arcbound Ravager 	Artifact Creature 0/0 	2 	Rare 	Carl Critchlow 	English Darksteel
+101 	Arcbound Reclaimer 	Artifact Creature - Golem 0/0 	4 	Rare 	Jon Foster 	English Darksteel
+102 	Arcbound Slith 	Artifact Creature - Slith 0/0 	2 	Uncommon 	Vance Kovacs 	English Darksteel
+103 	Arcbound Stinger 	Artifact Creature 0/0 	2 	Common 	Darrell Riche 	English Darksteel
+104 	Arcbound Worker 	Artifact Creature 0/0 	1 	Common 	Darrell Riche 	English Darksteel
+105 	Auriok Siege Sled 	Artifact Creature 3/5 	6 	Uncommon 	Jim Murray 	English Darksteel
+106 	Chimeric Egg 	Artifact 	3 	Uncommon 	Michael Sutfin 	English Darksteel
+107 	Coretapper 	Artifact Creature - Myr 1/1 	2 	Uncommon 	Dany Orizio 	English Darksteel
+108 	Darksteel Brute 	Artifact 	2 	Uncommon 	Nottsuo 	English Darksteel
+109 	Darksteel Colossus 	Artifact Creature 11/11 	11 	Rare 	Carl Critchlow 	English Darksteel
+110 	Darksteel Forge 	Artifact 	9 	Rare 	Martina Pilcerova 	English Darksteel
+111 	Darksteel Gargoyle 	Artifact Creature - Gargoyle 3/3 	7 	Uncommon 	Ron Spencer 	English Darksteel
+112 	Darksteel Ingot 	Artifact 	3 	Common 	Martina Pilcerova 	English Darksteel
+113 	Darksteel Pendant 	Artifact 	2 	Common 	Terese Nielsen 	English Darksteel
+114 	Darksteel Reactor 	Artifact 	4 	Rare 	Kev Walker 	English Darksteel
+115 	Death-Mask Duplicant 	Artifact Creature - Shapeshifter 5/5 	7 	Uncommon 	Thomas M. Baxa 	English Darksteel
+116 	Demon's Horn 	Artifact 	2 	Uncommon 	Alan Pollack 	English Darksteel
+117 	Dragon's Claw 	Artifact 	2 	Uncommon 	Alan Pollack 	English Darksteel
+118 	Drill-Skimmer 	Artifact Creature 2/1 	4 	Common 	Mark Zug 	English Darksteel
+119 	Dross Golem 	Artifact Creature - Golem 3/2 	5 	Common 	Adam Rex 	English Darksteel
+120 	Eater of Days 	Artifact Creature - Leviathan 9/8 	4 	Rare 	Mark Tedin 	English Darksteel
+121 	Gemini Engine 	Artifact Creature 3/4 	6 	Rare 	Nottsuo 	English Darksteel
+122 	Genesis Chamber 	Artifact 	2 	Uncommon 	Mark Tedin 	English Darksteel
+123 	Geth's Grimoire 	Artifact 	4 	Uncommon 	Heather Hudson 	English Darksteel
+124 	Heartseeker 	Artifact - Equipment 	4 	Rare 	Michael Sutfin 	English Darksteel
+125 	Juggernaut 	Artifact Creature 5/3 	4 	Uncommon 	Arnie Swekel 	English Darksteel
+126 	Kraken's Eye 	Artifact 	2 	Uncommon 	Alan Pollack 	English Darksteel
+127 	Leonin Bola 	Artifact - Equipment 	1 	Common 	Christopher Moeller 	English Darksteel
+128 	Lich's Tomb 	Artifact 	4 	Rare 	Matt Cavotta 	English Darksteel
+129 	Memnarch 	Artifact Creature - Wizard Legend 4/5 	7 	Rare 	Carl Critchlow 	English Darksteel
+130 	Mycosynth Lattice 	Artifact 	6 	Rare 	Anthony S. Waters 	English Darksteel
+131 	Myr Landshaper 	Artifact Creature - Myr 1/1 	3 	Common 	Greg Staples 	English Darksteel
+132 	Myr Matrix 	Artifact 	5 	Rare 	Mark Tedin 	English Darksteel
+133 	Myr Moonvessel 	Artifact Creature - Myr 1/1 	1 	Common 	Dany Orizio 	English Darksteel
+134 	Nemesis Mask 	Artifact - Equipment 	3 	Uncommon 	Adam Rex 	English Darksteel
+135 	Oxidda Golem 	Artifact Creature - Golem 3/2 	6 	Common 	Greg Staples 	English Darksteel
+136 	Panoptic Mirror 	Artifact 	5 	Rare 	Glen Angus 	English Darksteel
+137 	Razor Golem 	Artifact Creature - Golem 3/4 	6 	Common 	Christopher Moeller 	English Darksteel
+138 	Serum Powder 	Artifact 	3 	Rare 	Matt Thompson 	English Darksteel
+139 	Shield of Kaldra 	Legendary Artifact - Equipment 	4 	Rare 	Donato Giancola 	English Darksteel
+140 	Skullclamp 	Artifact - Equipment 	1 	Uncommon 	Luca Zontini 	English Darksteel
+141 	Spawning Pit 	Artifact 	2 	Uncommon 	Tony Szczudlo 	English Darksteel
+142 	Specter's Shroud 	Artifact - Equipment 	2 	Uncommon 	Greg Hildebrandt 	English Darksteel
+143 	Spellbinder 	Artifact - Equipment 	3 	Rare 	Ron Spencer 	English Darksteel
+144 	Spincrusher 	Artifact Creature 0/2 	2 	Uncommon 	Greg Staples 	English Darksteel
+145 	Spire Golem 	Artifact Creature - Golem 2/4 	6 	Common 	Daren Bader 	English Darksteel
+146 	Sundering Titan 	Artifact Creature 7/10 	8 	Rare 	Jim Murray 	English Darksteel
+147 	Surestrike Trident 	Artifact - Equipment 	2 	Uncommon 	Ben Thompson 	English Darksteel
+148 	Sword of Fire and Ice 	Artifact - Equipment 	3 	Rare 	Mark Zug 	English Darksteel
+149 	Sword of Light and Shadow 	Artifact - Equipment 	3 	Rare 	Mark Zug 	English Darksteel
+150 	Talon of Pain 	Artifact 	4 	Uncommon 	Daren Bader 	English Darksteel
+151 	Tangle Golem 	Artifact Creature - Golem 5/4 	7 	Common 	Arnie Swekel 	English Darksteel
+152 	Thought Dissector 	Artifact 	4 	Rare 	Matt Cavotta 	English Darksteel
+153 	Thunderstaff 	Artifact 	3 	Uncommon 	Kaja Foglio 	English Darksteel
+154 	Trinisphere 	Artifact 	3 	Rare 	Tim Hildebrandt 	English Darksteel
+155 	Ur-Golem's Eye 	Artifact 	4 	Common 	Heather Hudson 	English Darksteel
+156 	Voltaic Construct 	Artifact Creature - Golem 2/2 	4 	Uncommon 	Jeff Easley 	English Darksteel
+157 	Vulshok Morningstar 	Artifact - Equipment 	2 	Common 	David Martin 	English Darksteel
+158 	Wand of the Elements 	Artifact 	4 	Rare 	Thomas M. Baxa 	English Darksteel
+159 	Well of Lost Dreams 	Artifact 	4 	Rare 	Jeff Miracola 	English Darksteel
+160 	Whispersilk Cloak 	Artifact - Equipment 	3 	Common 	Luca Zontini 	English Darksteel
+161 	Wirefly Hive 	Artifact 	3 	Uncommon 	Nottsuo 	English Darksteel
+162 	Wurm's Tooth 	Artifact 	2 	Uncommon 	Alan Pollack 	English Darksteel
+163 	Blinkmoth Nexus 	Land 		Rare 	Brian Snõ 	English Darksteel
+164 	Darksteel Citadel 	Artifact Land 		Common 	John Avon 	English Darksteel
+165 	Mirrodin's Core 	Land 		Uncommon 	Greg Staples 	English Darksteel

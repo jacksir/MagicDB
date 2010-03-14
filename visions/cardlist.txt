@@ -1,0 +1,167 @@
+1 	Aku Djinn 	Summon Djinn 5/6 	3BB 	Rare 	Terese Nielsen 	English Visions
+2 	Blanket of Night 	Enchantment 	1BB 	Uncommon 	Cliff Nielsen 	English Visions
+3 	Brood of Cockroaches 	Summon Insects 1/1 	1B 	Uncommon 	G. Darrow and I. Rabarot 	English Visions
+4 	Coercion 	Sorcery 	2B 	Common 	DiTerlizzi 	English Visions
+5 	Crypt Rats 	Summon Rats 1/1 	2B 	Common 	Paul Lee 	English Visions
+6 	Dark Privilege 	Enchant Creature 	1B 	Common 	Tom Kyffin 	English Visions
+7 	Death Watch 	Enchant Creature 	B 	Common 	Brian Horton 	English Visions
+8 	Desolation 	Enchantment 	1BB 	Uncommon 	George Pratt 	English Visions
+9 	Fallen Askari 	Summon Knight 2/2 	1B 	Common 	Adrian Smith 	English Visions
+10 	Forbidden Ritual 	Sorcery 	2BB 	Rare 	Christopher Rush 	English Visions
+11 	Funeral Charm 	Instant 	B 	Common 	Greg Spalenka 	English Visions
+12 	Infernal Harvest 	Sorcery 	1B 	Common 	Nathalie Hertz 	English Visions
+13 	Kaervek's Spite 	Instant 	BBB 	Rare 	Bryan Talbot 	English Visions
+14 	Necromancy 	Enchantment 	2B 	Uncommon 	Pete Venters 	English Visions
+15 	Necrosavant 	Summon Necrosavant 5/5 	3BBB 	Rare 	John Coulthart 	English Visions
+16 	Nekrataal 	Summon Nekrataal 2/1 	2BB 	Uncommon 	Adrian Smith 	English Visions
+17 	Pillar Tombs of Aku 	Enchant World 	2BB 	Rare 	Terese Nielsen 	English Visions
+18 	Python 	Summon Python 3/2 	1BB 	Common 	Steve White 	English Visions
+19 	Suq'Ata Assassin 	Summon Assassin 1/1 	1BB 	Uncommon 	Gary Gianni 	English Visions
+20 	Tar Pit Warrior 	Summon Cyclops 3/4 	2B 	Common 	George Pratt 	English Visions
+21 	Urborg Mindsucker 	Summon Mindsucker 2/2 	2B 	Common 	Tony DiTerlizzi 	English Visions
+22 	Vampiric Tutor 	Instant 	B 	Rare 	Gary Leach 	English Visions
+23 	Vampirism 	Enchant Creature 	1B 	Uncommon 	Gary Leach 	English Visions
+24 	Wake of Vultures 	Summon Vultures 3/1 	3B 	Common 	Jeff Miracola 	English Visions
+25 	Wicked Reward 	Instant 	1B 	Common 	D. Alexander Gregory 	English Visions
+26 	Betrayal 	Enchant Creature 	U 	Common 	Gary Leach 	English Visions
+27 	Breezekeeper 	Summon Djinn 4/4 	3U 	Common 	Adam Rex 	English Visions
+28 	Chronatog 	Summon Atog 1/2 	1U 	Rare 	Christopher Rush 	English Visions
+29 	Cloud Elemental 	Summon Elemental 2/3 	2U 	Common 	Adam Rex 	English Visions
+30 	Desertion 	Interrupt 	3UU 	Rare 	Richard Kane Ferguson 	English Visions
+31 	Dream Tides 	Enchantment 	2UU 	Uncommon 	Jerry Tiritilli 	English Visions
+32 	Flooded Shoreline 	Enchantment 	UU 	Rare 	Romas Kukalis 	English Visions
+33 	Foreshadow 	Instant 	1U 	Uncommon 	George Pratt 	English Visions
+34 	Impulse 	Instant 	1U 	Common 	Bryan Talbot 	English Visions
+35 	Inspiration 	Instant 	3U 	Common 	Zina Saunders 	English Visions
+36 	Knight of the Mists 	Summon Knight 2/2 	2U 	Common 	Harold McNeill 	English Visions
+37 	Man-o'-War 	Summon Jellyfish 2/2 	2U 	Common 	Jon J Muth 	English Visions
+38 	Mystic Veil 	Enchant Creature 	1U 	Common 	D. Alexander Gregory 	English Visions
+39 	Ovinomancer 	Summon Sorcerer 0/1 	2U 	Uncommon 	Kevin Walker 	English Visions
+40 	Prosperity 	Sorcery 	XU 	Uncommon 	Dan Frazier 	English Visions
+41 	Rainbow Efreet 	Summon Efreet 3/1 	3U 	Rare 	Nathalie Hertz 	English Visions
+42 	Shimmering Efreet 	Summon Efreet 2/2 	2U 	Uncommon 	Thomas Gianni 	English Visions
+43 	Shrieking Drake 	Summon Drake 1/1 	U 	Common 	Ian Miller 	English Visions
+44 	Teferi's Realm 	Enchant World 	1UU 	Rare 	Alan Rabinowitz 	English Visions
+45 	Three Wishes 	Instant 	1UU 	Rare 	George Pratt 	English Visions
+46 	Time and Tide 	Instant 	UU 	Uncommon 	George Pratt 	English Visions
+47 	Undo 	Sorcery 	1UU 	Common 	Terese Nielsen 	English Visions
+48 	Vanishing 	Enchant Creature 	U 	Common 	John Matson 	English Visions
+49 	Vision Charm 	Instant 	U 	Common 	Greg Spalenka 	English Visions
+50 	Waterspout Djinn 	Summon Djinn 4/4 	2UU 	Uncommon 	Thomas Gianni 	English Visions
+51 	Bull Elephant 	Summon Elephant 4/4 	3G 	Common 	Steven White 	English Visions
+52 	City of Solitude 	Enchantment 	2G 	Rare 	Romas Kukalis 	English Visions
+53 	Creeping Mold 	Sorcery 	2GG 	Uncommon 	Dave Seeley 	English Visions
+54 	Elephant Grass 	Enchantment 	G 	Uncommon 	Tony Roberts 	English Visions
+55 	Elven Cache 	Sorcery 	2GG 	Common 	John Matson 	English Visions
+56 	Emerald Charm 	Instant 	G 	Common 	Greg Spalenka 	English Visions
+57 	Feral Instinct 	Instant 	1G 	Common 	Una Fricker 	English Visions
+58 	Giant Caterpillar 	Summon Caterpillar 3/3 	3G 	Common 	Zina Saunders 	English Visions
+59 	Katabatic Winds 	Enchantment 	2G 	Rare 	Gary Gianni 	English Visions
+60 	King Cheetah 	Summon Cheetah 3/2 	3G 	Common 	Terese Nielsen 	English Visions
+61 	Kyscu Drake 	Summon Drake 2/2 	3G 	Uncommon 	G. Darrow & I. Rabarot 	English Visions
+62 	Lichenthrope 	Summon Lichenthrope 5/5 	3GG 	Rare 	Bob Eggleton 	English Visions
+63 	Mortal Wound 	Enchant Creature 	G 	Common 	Kevin Walker 	English Visions
+64 	Natural Order 	Sorcery 	2GG 	Rare 	Terese Nielsen 	English Visions
+65 	Panther Warriors 	Summon Cat Warriors 6/3 	4G 	Common 	Cecil Fernando 	English Visions
+66 	Quirion Druid 	Summon Druid 1/2 	2G 	Rare 	John Matson 	English Visions
+67 	Quirion Ranger 	Summon Elf 1/1 	G 	Common 	Tom Kyffin 	English Visions
+68 	River Boa 	Summon Snake 2/1 	1G 	Common 	Steve White 	English Visions
+69 	Rowen 	Enchantment 	2GG 	Rare 	Jon J Muth 	English Visions
+70 	Spider Climb 	Enchant Creature 	G 	Common 	Ron Spencer 	English Visions
+71 	Stampeding Wildebeests 	Summon Wildebeests 5/4 	2GG 	Uncommon 	Randy Gallegos 	English Visions
+72 	Summer Bloom 	Sorcery 	1G 	Uncommon 	Nicola Leonard 	English Visions
+73 	Uktabi Orangutan 	Summon Ape 2/2 	2G 	Uncommon 	Una Fricker 	English Visions
+74 	Warthog 	Summon Warthog 3/2 	1GG 	Common 	Steve White 	English Visions
+75 	Wind Shear 	Instant 	2G 	Uncommon 	John Matson 	English Visions
+76 	Bogardan Phoenix 	Summon Phoenix 3/3 	2RRR 	Rare 	David O'Connor 	English Visions
+77 	Dwarven Vigilantes 	Summon Dwarves 2/2 	2R 	Common 	Pete Venters 	English Visions
+78 	Elkin Lair 	Enchant World 	3R 	Rare 	Jerry Tiritilli 	English Visions
+79 	Fireblast 	Instant 	4RR 	Common 	Michael Danza 	English Visions
+80 	Goblin Recruiter 	Summon Goblin 1/1 	1R 	Uncommon 	Scott Kirschner 	English Visions
+81 	Goblin Swine-Rider 	Summon Goblin 1/1 	R 	Common 	G. Darrow and I. Rabarot 	English Visions
+82 	Hearth Charm 	Instant 	R 	Common 	Greg Spalenka 	English Visions
+83 	Heat Wave 	Enchantment 	2R 	Uncommon 	Alan Rabinowitz 	English Visions
+84 	Hulking Cyclops 	Summon Cyclops 5/5 	3RR 	Uncommon 	DiTerlizzi 	English Visions
+85 	Keeper of Kookus 	Summon Goblin 1/1 	R 	Common 	Scott Hampton 	English Visions
+86 	Kookus 	Summon Djinn 3/5 	3RR 	Rare 	Scott Hampton 	English Visions
+87 	Lightning Cloud 	Enchantment 	3R 	Rare 	John Matson 	English Visions
+88 	Mob Mentality 	Enchant Creature 	R 	Uncommon 	Douglas Shuler 	English Visions
+89 	Ogre Enforcer 	Summon Ogre 4/4 	3RR 	Rare 	Pete Venters 	English Visions
+90 	Raging Gorilla 	Summon Gorilla 2/3 	2R 	Common 	Tom Kyffin 	English Visions
+91 	Relentless Assault 	Sorcery 	2RR 	Rare 	G. Darrow and I. Rabarot 	English Visions
+92 	Rock Slide 	Instant 	XR 	Common 	Mike Kerr 	English Visions
+93 	Solfatara 	Instant 	2R 	Common 	Omaha Perez 	English Visions
+94 	Song of Blood 	Sorcery 	1R 	Common 	Eric Peterson 	English Visions
+95 	Spitting Drake 	Summon Drake 2/2 	3R 	Uncommon 	G. Darrow and I. Rabarot 	English Visions
+96 	Suq'Ata Lancer 	Summon Knight 2/2 	2R 	Common 	Jeff Miracola 	English Visions
+97 	Talruum Champion 	Summon Minotaur 3/3 	4R 	Common 	Pete Venters 	English Visions
+98 	Talruum Piper 	Summon Minotaur 3/3 	4R 	Uncommon 	Pete Venters 	English Visions
+99 	Tremor 	Sorcery 	R 	Common 	Michael Danza 	English Visions
+100 	Viashino Sandstalker 	Summon Viashino 4/2 	1RR 	Uncommon 	Andrew Robinson 	English Visions
+101 	Archangel 	Summon Angel 5/5 	5WW 	Rare 	Christopher Rush 	English Visions
+102 	Daraja Griffin 	Summon Griffin 2/2 	3W 	Uncommon 	Stuart Griffin 	English Visions
+103 	Equipoise 	Enchantment 	2W 	Rare 	Adam Rex 	English Visions
+104 	Eye of Singularity 	Enchant World 	3W 	Rare 	Eric Peterson 	English Visions
+105 	Freewind Falcon 	Summon Falcon 1/1 	1W 	Common 	Una Fricker 	English Visions
+106 	Gossamer Chains 	Enchantment 	WW 	Common 	Steve Luke 	English Visions
+107 	Honorable Passage 	Instant 	1W 	Uncommon 	Jeff Miracola 	English Visions
+108 	Hope Charm 	Instant 	W 	Common 	Greg Spalenka 	English Visions
+109 	Infantry Veteran 	Summon Soldier 1/1 	W 	Common 	Christopher Rush 	English Visions
+110 	Jamuraan Lion 	Summon Lion 3/1 	2W 	Common 	Stuart Griffin 	English Visions
+111 	Knight of Valor 	Summon Knight 2/2 	2W 	Common 	Jeff Miracola 	English Visions
+112 	Longbow Archer 	Summon Archer 2/2 	WW 	Uncommon 	Eric Peterson 	English Visions
+113 	Miraculous Recovery 	Instant 	4W 	Uncommon 	Brian Horton 	English Visions
+114 	Parapet 	Enchantment 	1W 	Common 	Mark Poole 	English Visions
+115 	Peace Talks 	Sorcery 	1W 	Uncommon 	Roger Raupp 	English Visions
+116 	Relic Ward 	Enchant Artifact 	1W 	Uncommon 	John Coulthart 	English Visions
+117 	Remedy 	Instant 	1W 	Common 	Zina Saunders 	English Visions
+118 	Resistance Fighter 	Summon Soldier 1/1 	W 	Common 	Cecil Fernando 	English Visions
+119 	Retribution of the Meek 	Sorcery 	2W 	Rare 	Nathalie Hertz 	English Visions
+120 	Righteous Aura 	Enchantment 	1W 	Common 	Jeff Miracola 	English Visions
+121 	Sun Clasp 	Enchant Creature 	1W 	Common 	John Coulthart 	English Visions
+122 	Teferi's Honor Guard 	Summon Knight 2/2 	2W 	Uncommon 	Cecil Fernando 	English Visions
+123 	Tithe 	Instant 	W 	Rare 	Jon J Muth 	English Visions
+124 	Warrior's Honor 	Instant 	2W 	Common 	D. Alexander Gregory 	English Visions
+125 	Zhalfirin Crusader 	Summon Knight 2/2 	1WW 	Rare 	Alan Rabinowitz 	English Visions
+126 	Army Ants 	Summon Insects 1/1 	1BR 	Uncommon 	G. Darrow and I. Rabarot 	English Visions
+127 	Breathstealer's Crypt 	Enchantment 	2UB 	Rare 	Blackie del Rio 	English Visions
+128 	Corrosion 	Enchantment 	1BR 	Rare 	Michael Danza 	English Visions
+129 	Femeref Enchantress 	Summon Enchantress 1/2 	WG 	Rare 	D. Alexander Gregory 	English Visions
+130 	Firestorm Hellkite 	Summon Dragon 6/6 	4UR 	Rare 	Pete Venters 	English Visions
+131 	Guiding Spirit 	Summon Angel 1/2 	1WU 	Rare 	Terese Nielsen 	English Visions
+132 	Mundungu 	Summon Wizard 1/1 	1UB 	Uncommon 	Terese Nielsen 	English Visions
+133 	Pygmy Hippo 	Summon Hippopotamus 2/2 	UG 	Rare 	Steve White 	English Visions
+134 	Righteous War 	Enchantment 	1WB 	Rare 	Ian Miller 	English Visions
+135 	Scalebane's Elite 	Summon Soldiers 4/4 	3WG 	Uncommon 	Steve Luke 	English Visions
+136 	Simoon 	Instant 	RG 	Uncommon 	Randy Gallegos 	English Visions
+137 	Squandered Resources 	Enchantment 	BG 	Rare 	Romas Kukalis 	English Visions
+138 	Suleiman's Legacy 	Enchantment 	WR 	Rare 	Kaja Foglio 	English Visions
+139 	Tempest Drake 	Summon Drake 2/2 	1WU 	Uncommon 	Gerry Grace 	English Visions
+140 	Viashivan Dragon 	Summon Dragon 4/4 	2RRGG 	Rare 	Ian Miller 	English Visions
+141 	Anvil of Bogardan 	Artifact 	2 	Rare 	Roger Raupp 	English Visions
+142 	Brass-Talon Chimera 	Artifact Creature 2/2 	4 	Uncommon 	Mike Dringenberg 	English Visions
+143 	Diamond Kaleidoscope 	Artifact 	4 	Rare 	Ron Spencer 	English Visions
+144 	Dragon Mask 	Artifact 	3 	Uncommon 	Craig Hooper 	English Visions
+145 	Helm of Awakening 	Artifact 	2 	Uncommon 	Adam Rex 	English Visions
+146 	Iron-Heart Chimera 	Artifact Creature 2/2 	4 	Uncommon 	Mike Dringenberg 	English Visions
+147 	Juju Bubble 	Artifact 	1 	Uncommon 	Donato Giancola 	English Visions
+148 	Lead-Belly Chimera 	Artifact Creature 2/2 	4 	Uncommon 	Mike Dringenberg 	English Visions
+149 	Magma Mine 	Artifact 	1 	Uncommon 	Ron Spencer 	English Visions
+150 	Matopi Golem 	Artifact Creature 3/3 	5 	Uncommon 	Tom Kyffin 	English Visions
+151 	Phyrexian Marauder 	Artifact Creature 0/0 	X 	Rare 	David Seeley 	English Visions
+152 	Phyrexian Walker 	Artifact Creature 0/3 	0 	Common 	Bryan Talbot 	English Visions
+153 	Sands of Time 	Artifact 	4 	Rare 	Paul Lee 	English Visions
+154 	Sisay's Ring 	Artifact 	4 	Common 	Donato Giancola 	English Visions
+155 	Snake Basket 	Artifact 	4 	Rare 	Roger Raupp 	English Visions
+156 	Teferi's Puzzle Box 	Artifact 	4 	Rare 	Kaja Foglio 	English Visions
+157 	Tin-Wing Chimera 	Artifact Creature 2/2 	4 	Uncommon 	Mike Dringenberg 	English Visions
+158 	Triangle of War 	Artifact 	1 	Rare 	Ian Miller 	English Visions
+159 	Wand of Denial 	Artifact 	2 	Rare 	Steve Luke 	English Visions
+160 	Coral Atoll 	Land 		Uncommon 	John Avon 	English Visions
+161 	Dormant Volcano 	Land 		Uncommon 	John Avon 	English Visions
+162 	Everglades 	Land 		Uncommon 	Bob Eggleton 	English Visions
+163 	Griffin Canyon 	Land 		Rare 	Stuart Griffin 	English Visions
+164 	Jungle Basin 	Land 		Uncommon 	John Avon 	English Visions
+165 	Karoo 	Land 		Uncommon 	Zina Saunders 	English Visions
+166 	Quicksand 	Land 		Uncommon 	Roger Raupp 	English Visions
+167 	Undiscovered Paradise 	Land 		Rare 	David O'Connor 	English Visions

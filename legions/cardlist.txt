@@ -1,0 +1,145 @@
+1 	Akroma, Angel of Wrath 	Creature - Angel Legend 6/6 	5WWW 	Rare 	Ron Spears 	English Legions
+2 	Akroma's Devoted 	Creature - Cleric 2/4 	3W 	Uncommon 	Dave Dorman 	English Legions
+3 	Aven Redeemer 	Creature - Bird Cleric 2/2 	3W 	Common 	Tim Hildebrandt 	English Legions
+4 	Aven Warhawk 	Creature - Bird Soldier 2/2 	4W 	Uncommon 	Glen Angus 	English Legions
+5 	Beacon of Destiny 	Creature - Cleric 1/3 	1W 	Rare 	Tim Hildebrandt 	English Legions
+6 	Celestial Gatekeeper 	Creature - Bird Cleric 2/2 	3WW 	Rare 	Christopher Moeller 	English Legions
+7 	Cloudreach Cavalry 	Creature - Soldier 1/1 	1W 	Uncommon 	Kev Walker 	English Legions
+8 	Daru Mender 	Creature - Cleric 1/1 	W 	Uncommon 	Ben Thompson 	English Legions
+9 	Daru Sanctifier 	Creature - Cleric 1/4 	3W 	Common 	Tony Szczudlo 	English Legions
+10 	Daru Stinger 	Creature - Soldier 1/1 	3W 	Common 	Greg Staples 	English Legions
+11 	Defender of the Order 	Creature - Cleric 2/4 	3W 	Rare 	Darrell Riche 	English Legions
+12 	Deftblade Elite 	Creature - Soldier 1/1 	W 	Common 	Alan Pollack 	English Legions
+13 	Essence Sliver 	Creature - Sliver 3/3 	3W 	Rare 	Glen Angus 	English Legions
+14 	Gempalm Avenger 	Creature - Soldier 3/5 	5W 	Common 	Tim Hildebrandt 	English Legions
+15 	Glowrider 	Creature - Cleric 2/1 	2W 	Rare 	Scott M. Fischer 	English Legions
+16 	Liege of the Axe 	Creature - Soldier 2/3 	3W 	Uncommon 	Christopher Moeller 	English Legions
+17 	Lowland Tracker 	Creature - Soldier 2/2 	4W 	Common 	Brian Snõ 	English Legions
+18 	Planar Guide 	Creature - Cleric 1/1 	W 	Rare 	Eric Peterson 	English Legions
+19 	Plated Sliver 	Creature - Sliver 1/1 	W 	Common 	Greg Staples 	English Legions
+20 	Starlight Invoker 	Creature - Cleric Mutant 1/3 	1W 	Common 	Glen Angus 	English Legions
+21 	Stoic Champion 	Creature - Soldier 2/2 	WW 	Uncommon 	Greg Hildebrandt 	English Legions
+22 	Sunstrike Legionnaire 	Creature - Soldier 1/2 	1W 	Rare 	Mark Zug 	English Legions
+23 	Swooping Talon 	Creature - Bird Soldier 2/6 	4WW 	Uncommon 	Mark Zug 	English Legions
+24 	Wall of Hope 	Creature - Wall 0/3 	W 	Common 	David Martin 	English Legions
+25 	Ward Sliver 	Creature - Sliver 2/2 	4W 	Uncommon 	Pete Venters 	English Legions
+26 	Whipgrass Entangler 	Creature - Cleric 1/3 	2W 	Common 	Ben Thompson 	English Legions
+27 	White Knight 	Creature - Knight 2/2 	WW 	Uncommon 	Edward P. Beard, Jr. 	English Legions
+28 	Windborn Muse 	Creature - Spirit 2/3 	3W 	Rare 	Adam Rex 	English Legions
+29 	Wingbeat Warrior 	Creature - Bird Soldier 2/1 	2W 	Common 	Kev Walker 	English Legions
+30 	Aven Envoy 	Creature - Bird Soldier 0/2 	U 	Common 	Alex Horley-Orlandelli 	English Legions
+31 	Cephalid Pathmage 	Creature - Cephalid Wizard 1/2 	2U 	Common 	Alex Horley-Orlandelli 	English Legions
+32 	Chromeshell Crab 	Creature - Beast 3/3 	4U 	Rare 	Ron Spencer 	English Legions
+33 	Covert Operative 	Creature - Wizard 3/2 	4U 	Common 	Kev Walker 	English Legions
+34 	Crookclaw Elder 	Creature - Bird Wizard 3/2 	5U 	Uncommon 	Ron Spencer 	English Legions
+35 	Dermoplasm 	Creature - Shapeshifter 1/1 	2U 	Rare 	John Avon 	English Legions
+36 	Dreamborn Muse 	Creature - Spirit 2/2 	2UU 	Rare 	Kev Walker 	English Legions
+37 	Echo Tracer 	Creature - Wizard 2/2 	2U 	Common 	Scott M. Fischer 	English Legions
+38 	Fugitive Wizard 	Creature - Wizard 1/1 	U 	Common 	Jim Nelson 	English Legions
+39 	Gempalm Sorcerer 	Creature - Wizard 2/2 	2U 	Uncommon 	Greg Hildebrandt 	English Legions
+40 	Glintwing Invoker 	Creature - Wizard Mutant 3/3 	4U 	Common 	Jim Nelson 	English Legions
+41 	Keeneye Aven 	Creature - Bird Soldier 2/3 	3U 	Common 	Greg Hildebrandt 	English Legions
+42 	Keeper of the Nine Gales 	Creature - Bird Wizard 1/2 	2U 	Rare 	Jim Nelson 	English Legions
+43 	Master of the Veil 	Creature - Wizard 2/3 	2UU 	Uncommon 	Ron Spears 	English Legions
+44 	Merchant of Secrets 	Creature - Wizard 1/1 	2U 	Common 	Greg Hildebrandt 	English Legions
+45 	Mistform Seaswift 	Creature - Illusion 3/1 	3U 	Common 	Dany Orizio 	English Legions
+46 	Mistform Sliver 	Creature - Illusion Sliver 1/1 	1U 	Common 	Ben Thompson 	English Legions
+47 	Mistform Ultimus 	Creature - Illusion Legend 3/3 	3U 	Rare 	Anthony S. Waters 	English Legions
+48 	Mistform Wakecaster 	Creature - Illusion 2/3 	4U 	Uncommon 	Glen Angus 	English Legions
+49 	Primoc Escapee 	Creature - Bird Beast 4/4 	6U 	Uncommon 	Tony Szczudlo 	English Legions
+50 	Riptide Director 	Creature - Wizard 2/3 	2UU 	Rare 	Scott M. Fischer 	English Legions
+51 	Riptide Mangler 	Creature - Beast 0/3 	1U 	Rare 	Arnie Swekel 	English Legions
+52 	Shifting Sliver 	Creature - Sliver 2/2 	3U 	Uncommon 	Darrell Riche 	English Legions
+53 	Synapse Sliver 	Creature - Sliver 3/3 	4U 	Rare 	Thomas M. Baxa 	English Legions
+54 	Voidmage Apprentice 	Creature - Wizard 1/1 	1U 	Common 	Jim Nelson 	English Legions
+55 	Wall of Deceit 	Creature - Wall 0/5 	1U 	Uncommon 	John Avon 	English Legions
+56 	Warped Researcher 	Creature - Wizard Mutant 3/4 	4U 	Uncommon 	rk post 	English Legions
+57 	Weaver of Lies 	Creature - Beast 4/4 	5UU 	Rare 	Luca Zontini 	English Legions
+58 	Willbender 	Creature - Wizard 1/2 	1U 	Uncommon 	Eric Peterson 	English Legions
+59 	Aphetto Exterminator 	Creature - Wizard 3/1 	2B 	Uncommon 	Scott M. Fischer 	English Legions
+60 	Bane of the Living 	Creature - Insect 4/3 	2BB 	Rare 	Justin Sweet 	English Legions
+61 	Blood Celebrant 	Creature - Cleric 1/1 	B 	Common 	Ben Thompson 	English Legions
+62 	Corpse Harvester 	Creature - Zombie Wizard 3/3 	3BB 	Uncommon 	Mark Tedin 	English Legions
+63 	Crypt Sliver 	Creature - Sliver 1/1 	1B 	Common 	Edward P. Beard, Jr. 	English Legions
+64 	Dark Supplicant 	Creature - Cleric 1/1 	B 	Uncommon 	Mark Zug 	English Legions
+65 	Deathmark Prelate 	Creature - Cleric 2/3 	3B 	Uncommon 	Tony Szczudlo 	English Legions
+66 	Drinker of Sorrow 	Creature - Horror 5/3 	2B 	Rare 	Carl Critchlow 	English Legions
+67 	Dripping Dead 	Creature - Zombie 4/1 	4BB 	Common 	Thomas M. Baxa 	English Legions
+68 	Earthblighter 	Creature - Cleric 1/1 	1B 	Uncommon 	Alex Horley-Orlandelli 	English Legions
+69 	Embalmed Brawler 	Creature - Zombie 2/2 	2B 	Common 	Justin Sweet 	English Legions
+70 	Gempalm Polluter 	Creature - Zombie 4/3 	5B 	Common 	Dany Orizio 	English Legions
+71 	Ghastly Remains 	Creature - Zombie 0/0 	BBB 	Rare 	Edward P. Beard, Jr. 	English Legions
+72 	Goblin Turncoat 	Creature - Goblin Mercenary 2/1 	1B 	Common 	Jim Nelson 	English Legions
+73 	Graveborn Muse 	Creature - Zombie Spirit 3/3 	2BB 	Rare 	Kev Walker 	English Legions
+74 	Havoc Demon 	Creature - Demon 5/5 	5BB 	Rare 	Thomas M. Baxa 	English Legions
+75 	Hollow Specter 	Creature - Specter 2/2 	1BB 	Rare 	rk post 	English Legions
+76 	Infernal Caretaker 	Creature - Cleric 2/2 	3B 	Common 	Christopher Moeller 	English Legions
+77 	Noxious Ghoul 	Creature - Zombie 3/3 	3BB 	Uncommon 	Luca Zontini 	English Legions
+78 	Phage the Untouchable 	Creature - Minion Legend 4/4 	3BBBB 	Rare 	Ron Spears 	English Legions
+79 	Scion of Darkness 	Creature - Avatar 6/6 	5BBB 	Rare 	Mark Zug 	English Legions
+80 	Skinthinner 	Creature - Zombie 2/1 	1B 	Common 	Dany Orizio 	English Legions
+81 	Smokespew Invoker 	Creature - Zombie Mutant 3/1 	2B 	Common 	Thomas M. Baxa 	English Legions
+82 	Sootfeather Flock 	Creature - Bird 3/2 	4B 	Common 	David Martin 	English Legions
+83 	Spectral Sliver 	Creature - Sliver 2/2 	2B 	Uncommon 	Pete Venters 	English Legions
+84 	Toxin Sliver 	Creature - Sliver 3/3 	3B 	Rare 	Lars Grant-West 	English Legions
+85 	Vile Deacon 	Creature - Cleric 2/2 	2BB 	Common 	Matthew D. Wilson 	English Legions
+86 	Withered Wretch 	Creature - Zombie Cleric 2/2 	BB 	Uncommon 	Tim Hildebrandt 	English Legions
+87 	Zombie Brute 	Creature - Zombie 5/4 	6B 	Uncommon 	Greg Hildebrandt 	English Legions
+88 	Blade Sliver 	Creature - Sliver 2/2 	2R 	Uncommon 	David Martin 	English Legions
+89 	Bloodstoke Howler 	Creature - Beast 3/4 	5R 	Common 	Christopher Moeller 	English Legions
+90 	Clickslither 	Creature - Insect 3/3 	1RRR 	Rare 	Kev Walker 	English Legions
+91 	Crested Craghorn 	Creature - Beast 4/1 	4R 	Common 	Matt Cavotta 	English Legions
+92 	Flamewave Invoker 	Creature - Goblin Mutant 2/2 	2R 	Common 	Dave Dorman 	English Legions
+93 	Frenetic Raptor 	Creature - Beast 6/6 	5R 	Uncommon 	Daren Bader 	English Legions
+94 	Gempalm Incinerator 	Creature - Goblin 2/1 	2R 	Uncommon 	Luca Zontini 	English Legions
+95 	Goblin Assassin 	Creature - Goblin Assassin 2/2 	3RR 	Uncommon 	Dave Dorman 	English Legions
+96 	Goblin Clearcutter 	Creature - Goblin 3/3 	3R 	Uncommon 	Eric Peterson 	English Legions
+97 	Goblin Dynamo 	Creature - Goblin Mutant 4/4 	5RR 	Uncommon 	Ron Spencer 	English Legions
+98 	Goblin Firebug 	Creature - Goblin 2/2 	1R 	Common 	Christopher Moeller 	English Legions
+99 	Goblin Goon 	Creature - Goblin Mutant 6/6 	3R 	Rare 	Greg Staples 	English Legions
+100 	Goblin Grappler 	Creature - Goblin 1/1 	R 	Common 	Christopher Moeller 	English Legions
+101 	Goblin Lookout 	Creature - Goblin 1/2 	1R 	Common 	Jim Nelson 	English Legions
+102 	Hunter Sliver 	Creature - Sliver 1/1 	1R 	Common 	Kev Walker 	English Legions
+103 	Imperial Hellkite 	Creature - Dragon 6/6 	5RR 	Rare 	Matt Cavotta 	English Legions
+104 	Kilnmouth Dragon 	Creature - Dragon 5/5 	5RR 	Rare 	Carl Critchlow 	English Legions
+105 	Lavaborn Muse 	Creature - Spirit 3/3 	3R 	Rare 	Brian Snõ 	English Legions
+106 	Macetail Hystrodon 	Creature - Beast 4/4 	6R 	Common 	Daren Bader 	English Legions
+107 	Magma Sliver 	Creature - Sliver 3/3 	3R 	Rare 	Wayne England 	English Legions
+108 	Ridgetop Raptor 	Creature - Beast 2/1 	3R 	Uncommon 	Daren Bader 	English Legions
+109 	Rockshard Elemental 	Creature - Elemental 4/3 	5RR 	Rare 	Anthony S. Waters 	English Legions
+110 	Shaleskin Plower 	Creature - Beast 3/2 	3R 	Common 	Daren Bader 	English Legions
+111 	Skirk Alarmist 	Creature - Wizard 1/2 	1R 	Rare 	Justin Sweet 	English Legions
+112 	Skirk Drill Sergeant 	Creature - Goblin 2/1 	1R 	Uncommon 	Alex Horley-Orlandelli 	English Legions
+113 	Skirk Marauder 	Creature - Goblin 2/1 	1R 	Common 	Pete Venters 	English Legions
+114 	Skirk Outrider 	Creature - Goblin 2/2 	3R 	Common 	Greg Staples 	English Legions
+115 	Unstable Hulk 	Creature - Goblin Mutant 2/2 	1RR 	Rare 	Ron Spencer 	English Legions
+116 	Warbreak Trumpeter 	Creature - Goblin 1/1 	R 	Uncommon 	Dany Orizio 	English Legions
+117 	Berserk Murlodont 	Creature - Beast 3/3 	4G 	Common 	Arnie Swekel 	English Legions
+118 	Branchsnap Lorian 	Creature - Beast 4/1 	1GG 	Uncommon 	Heather Hudson 	English Legions
+119 	Brontotherium 	Creature - Beast 5/3 	4GG 	Uncommon 	Carl Critchlow 	English Legions
+120 	Brood Sliver 	Creature - Sliver 3/3 	4G 	Rare 	Ron Spears 	English Legions
+121 	Caller of the Claw 	Creature - Elf 2/2 	2G 	Rare 	Matt Cavotta 	English Legions
+122 	Canopy Crawler 	Creature - Beast 2/2 	3G 	Uncommon 	Anthony S. Waters 	English Legions
+123 	Defiant Elf 	Creature - Elf 1/1 	G 	Common 	Pete Venters 	English Legions
+124 	Elvish Soultiller 	Creature - Elf Mutant 5/4 	3GG 	Rare 	Ron Spears 	English Legions
+125 	Enormous Baloth 	Creature - Beast 7/7 	6G 	Uncommon 	Mark Tedin 	English Legions
+126 	Feral Throwback 	Creature - Beast 3/3 	4GG 	Rare 	Carl Critchlow 	English Legions
+127 	Gempalm Strider 	Creature - Elf 2/2 	1G 	Uncommon 	Tim Hildebrandt 	English Legions
+128 	Glowering Rogon 	Creature - Beast 4/4 	5G 	Common 	Kev Walker 	English Legions
+129 	Hundroog 	Creature - Beast 4/7 	6G 	Common 	Wayne England 	English Legions
+130 	Krosan Cloudscraper 	Creature - Beast Mutant 13/13 	7GGG 	Rare 	Ron Spears 	English Legions
+131 	Krosan Vorine 	Creature - Cat Beast 3/2 	3G 	Common 	Carl Critchlow 	English Legions
+132 	Nantuko Vigilante 	Creature - Insect Druid Mutant 3/2 	3G 	Common 	Alex Horley-Orlandelli 	English Legions
+133 	Needleshot Gourna 	Creature - Beast 3/6 	4GG 	Common 	Edward P. Beard, Jr. 	English Legions
+134 	Patron of the Wild 	Creature - Elf 1/1 	G 	Common 	Dave Dorman 	English Legions
+135 	Primal Whisperer 	Creature - Elf Soldier 2/2 	4G 	Rare 	Greg Staples 	English Legions
+136 	Quick Sliver 	Creature - Sliver 1/1 	1G 	Common 	John Avon 	English Legions
+137 	Root Sliver 	Creature - Sliver 2/2 	3G 	Uncommon 	Matt Thompson 	English Legions
+138 	Seedborn Muse 	Creature - Spirit 2/4 	3GG 	Rare 	Adam Rex 	English Legions
+139 	Stonewood Invoker 	Creature - Elf Mutant 2/2 	1G 	Common 	Eric Peterson 	English Legions
+140 	Timberwatch Elf 	Creature - Elf 1/2 	2G 	Common 	Dave Dorman 	English Legions
+141 	Totem Speaker 	Creature - Elf Druid 3/3 	4G 	Uncommon 	Darrell Riche 	English Legions
+142 	Tribal Forcemage 	Creature - Elf Wizard 1/1 	1G 	Rare 	Greg Staples 	English Legions
+143 	Vexing Beetle 	Creature - Insect 3/3 	4G 	Rare 	Matt Thompson 	English Legions
+144 	Wirewood Channeler 	Creature - Elf 2/2 	3G 	Uncommon 	Alan Pollack 	English Legions
+145 	Wirewood Hivemaster 	Creature - Elf 1/1 	1G 	Uncommon 	Darrell Riche 	English Legions

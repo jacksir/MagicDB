@@ -1,0 +1,148 @@
+1 	Angelfire Crusader 	Creature - Soldier 2/3 	3W 	Common 	Edward P. Beard, Jr. 	English Apocalypse
+2 	Coalition Flag 	Enchant Creature 	W 	Uncommon 	Darrell Riche 	English Apocalypse
+3 	Coalition Honor Guard 	Creature - Flagbearer 2/4 	3W 	Common 	Eric Peterson 	English Apocalypse
+4 	Dega Disciple 	Creature - Wizard 1/1 	W 	Common 	Alan Pollack 	English Apocalypse
+5 	Dega Sanctuary 	Enchantment 	2W 	Uncommon 	Ben Thompson 	English Apocalypse
+6 	Degavolver 	Creature - Volver 1/1 	1W 	Rare 	Ron Spencer 	English Apocalypse
+7 	Diversionary Tactics 	Enchantment 	3W 	Uncommon 	Jerry Tiritilli 	English Apocalypse
+8 	Divine Light 	Sorcery 	W 	Common 	Christopher Moeller 	English Apocalypse
+9 	Enlistment Officer 	Creature - Soldier 2/3 	3W 	Uncommon 	Wayne England 	English Apocalypse
+10 	False Dawn 	Sorcery 	1W 	Rare 	Dave Dorman 	English Apocalypse
+11 	Gerrard Capashen 	Creature - Legend 3/4 	3WW 	Rare 	Brom 	English Apocalypse
+12 	Haunted Angel 	Creature - Angel 3/3 	2W 	Uncommon 	Arnie Swekel 	English Apocalypse
+13 	Helionaut 	Creature - Soldier 1/2 	2W 	Common 	Franz Vohwinkel 	English Apocalypse
+14 	Manacles of Decay 	Enchant Creature 	1W 	Common 	Gary Ruddell 	English Apocalypse
+15 	Orim's Thunder 	Instant 	2W 	Common 	Carl Critchlow 	English Apocalypse
+16 	Shield of Duty and Reason 	Enchant Creature 	W 	Common 	Anthony S. Waters 	English Apocalypse
+17 	Spectral Lynx 	Creature - Cat 2/1 	1W 	Rare 	Heather Hudson 	English Apocalypse
+18 	Standard Bearer 	Creature - Flagbearer 1/1 	1W 	Common 	Ron Spencer 	English Apocalypse
+19 	Ceta Disciple 	Creature - Wizard 1/1 	U 	Common 	Greg & Tim Hildebrandt 	English Apocalypse
+20 	Ceta Sanctuary 	Enchantment 	2U 	Uncommon 	Franz Vohwinkel 	English Apocalypse
+21 	Cetavolver 	Creature - Volver 1/1 	1U 	Rare 	Gary Ruddell 	English Apocalypse
+22 	Coastal Drake 	Creature - Drake 2/1 	2U 	Common 	John Gallagher 	English Apocalypse
+23 	Evasive Action 	Instant 	1U 	Uncommon 	Brian Snõ 	English Apocalypse
+24 	Ice Cave 	Enchantment 	3UU 	Rare 	Jerry Tiritilli 	English Apocalypse
+25 	Index 	Sorcery 	U 	Common 	Kev Walker 	English Apocalypse
+26 	Jaded Response 	Instant 	1U 	Common 	Matt Cavotta 	English Apocalypse
+27 	Jilt 	Instant 	1U 	Common 	Terese Nielsen 	English Apocalypse
+28 	Living Airship 	Creature - Ship 2/3 	3U 	Common 	Mark Tedin 	English Apocalypse
+29 	Reef Shaman 	Creature - Merfolk 0/2 	U 	Common 	Scott M. Fischer 	English Apocalypse
+30 	Shimmering Mirage 	Instant 	1U 	Common 	Rebecca Guay 	English Apocalypse
+31 	Tidal Courier 	Creature - Merfolk 1/2 	3U 	Uncommon 	Wayne England 	English Apocalypse
+32 	Unnatural Selection 	Enchantment 	1U 	Rare 	Kev Walker 	English Apocalypse
+33 	Vodalian Mystic 	Creature - Merfolk 1/1 	1U 	Uncommon 	Bob Petillo 	English Apocalypse
+34 	Whirlpool Drake 	Creature - Drake 2/2 	3U 	Uncommon 	Alan Pollack 	English Apocalypse
+35 	Whirlpool Rider 	Creature - Merfolk 1/1 	1U 	Common 	Ray Lago 	English Apocalypse
+36 	Whirlpool Warrior 	Creature - Merfolk 2/2 	2U 	Rare 	Kev Walker 	English Apocalypse
+37 	Dead Ringers 	Sorcery 	4B 	Common 	Greg Staples 	English Apocalypse
+38 	Desolation Angel 	Creature - Angel 5/4 	3BB 	Rare 	Brom 	English Apocalypse
+39 	Foul Presence 	Enchant Creature 	2B 	Uncommon 	Ray Lago 	English Apocalypse
+40 	Grave Defiler 	Creature - Zombie 2/1 	3B 	Uncommon 	Tony Szczudlo 	English Apocalypse
+41 	Last Caress 	Sorcery 	2B 	Common 	Eric Peterson 	English Apocalypse
+42 	Mind Extraction 	Sorcery 	2B 	Common 	Adam Rex 	English Apocalypse
+43 	Mournful Zombie 	Creature - Zombie 2/1 	2B 	Common 	John Matson 	English Apocalypse
+44 	Necra Disciple 	Creature - Wizard 1/1 	B 	Common 	Jeff Miracola 	English Apocalypse
+45 	Necra Sanctuary 	Enchantment 	2B 	Uncommon 	Eric Peterson 	English Apocalypse
+46 	Necravolver 	Creature - Volver 2/2 	2B 	Rare 	Dave Dorman 	English Apocalypse
+47 	Phyrexian Arena 	Enchantment 	1BB 	Rare 	Pete Venters 	English Apocalypse
+48 	Phyrexian Gargantua 	Creature - Horror 4/4 	4BB 	Uncommon 	Carl Critchlow 	English Apocalypse
+49 	Phyrexian Rager 	Creature - Horror 2/2 	2B 	Common 	Mark Tedin 	English Apocalypse
+50 	Planar Despair 	Sorcery 	3BB 	Rare 	Mike Sass 	English Apocalypse
+51 	Quagmire Druid 	Creature - Zombie Druid 2/2 	2B 	Common 	Dana Knutson 	English Apocalypse
+52 	Suppress 	Sorcery 	2B 	Uncommon 	Terese Nielsen and Thomas M. Baxa 	English Apocalypse
+53 	Urborg Uprising 	Sorcery 	4B 	Common 	Adam Rex 	English Apocalypse
+54 	Zombie Boa 	Creature - Zombie Snake 3/3 	4B 	Common 	Greg Staples 	English Apocalypse
+55 	Bloodfire Colossus 	Creature - Giant 6/6 	6RR 	Rare 	Greg Staples 	English Apocalypse
+56 	Bloodfire Dwarf 	Creature - Dwarf 1/1 	R 	Common 	Ron Spencer 	English Apocalypse
+57 	Bloodfire Infusion 	Enchant Creature 	2R 	Common 	Anthony S. Waters 	English Apocalypse
+58 	Bloodfire Kavu 	Creature - Kavu 2/2 	2RR 	Uncommon 	Greg Staples 	English Apocalypse
+59 	Desolation Giant 	Creature - Giant 3/3 	2RR 	Rare 	Alan Pollack 	English Apocalypse
+60 	Dwarven Landslide 	Sorcery 	3R 	Common 	Tony Szczudlo 	English Apocalypse
+61 	Dwarven Patrol 	Creature - Dwarf 4/2 	2R 	Uncommon 	Greg & Tim Hildebrandt 	English Apocalypse
+62 	Goblin Ringleader 	Creature - Goblin 2/2 	3R 	Uncommon 	Mark Romanoski 	English Apocalypse
+63 	Illuminate 	Sorcery 	XR 	Uncommon 	Christopher Moeller 	English Apocalypse
+64 	Kavu Glider 	Creature - Kavu 2/1 	2R 	Common 	Heather Hudson 	English Apocalypse
+65 	Minotaur Tactician 	Creature - Minotaur 1/1 	3R 	Common 	Carl Critchlow 	English Apocalypse
+66 	Raka Disciple 	Creature - Wizard 1/1 	R 	Common 	Arnie Swekel 	English Apocalypse
+67 	Raka Sanctuary 	Enchantment 	2R 	Uncommon 	David Martin 	English Apocalypse
+68 	Rakavolver 	Creature - Volver 2/2 	2R 	Rare 	Scott M. Fischer 	English Apocalypse
+69 	Smash 	Instant 	2R 	Common 	Pete Venters 	English Apocalypse
+70 	Tahngarth's Glare 	Sorcery 	R 	Common 	Pete Venters 	English Apocalypse
+71 	Tundra Kavu 	Creature - Kavu 2/2 	2R 	Common 	Matt Cavotta 	English Apocalypse
+72 	Wild Research 	Enchantment 	2R 	Rare 	Gary Ruddell 	English Apocalypse
+73 	Ana Disciple 	Creature - Wizard 1/1 	G 	Common 	Darrell Riche 	English Apocalypse
+74 	Ana Sanctuary 	Enchantment 	2G 	Uncommon 	Rob Alexander 	English Apocalypse
+75 	Anavolver 	Creature - Volver 3/3 	3G 	Rare 	Matt Cavotta 	English Apocalypse
+76 	Bog Gnarr 	Creature - Beast 2/2 	4G 	Common 	Daren Bader 	English Apocalypse
+77 	Gaea's Balance 	Sorcery 	3G 	Uncommon 	Rebecca Guay 	English Apocalypse
+78 	Glade Gnarr 	Creature - Beast 4/4 	5G 	Common 	Daren Bader 	English Apocalypse
+79 	Kavu Howler 	Creature - Kavu 4/5 	4GG 	Uncommon 	Wayne England 	English Apocalypse
+80 	Kavu Mauler 	Creature - Kavu 4/4 	4GG 	Rare 	Daren Bader 	English Apocalypse
+81 	Lay of the Land 	Sorcery 	G 	Common 	Mark Zug 	English Apocalypse
+82 	Penumbra Bobcat 	Creature - Cat 2/1 	2G 	Common 	Heather Hudson 	English Apocalypse
+83 	Penumbra Kavu 	Creature - Kavu 3/3 	4G 	Uncommon 	Tony Szczudlo 	English Apocalypse
+84 	Penumbra Wurm 	Creature - Wurm 6/6 	5GG 	Rare 	Jeff Easley 	English Apocalypse
+85 	Savage Gorilla 	Creature - Ape 3/3 	4G 	Common 	Dave Dorman 	English Apocalypse
+86 	Strength of Night 	Instant 	2G 	Common 	John Avon 	English Apocalypse
+87 	Sylvan Messenger 	Creature - Elf 2/2 	3G 	Uncommon 	Heather Hudson 	English Apocalypse
+88 	Symbiotic Deployment 	Enchantment 	2G 	Rare 	Kev Walker 	English Apocalypse
+89 	Tranquil Path 	Sorcery 	4G 	Common 	John Avon 	English Apocalypse
+90 	Urborg Elf 	Creature - Elf 1/1 	1G 	Common 	Bob Petillo 	English Apocalypse
+91 	Æher Mutation 	Sorcery 	3UG 	Uncommon 	Ron Spencer 	English Apocalypse
+92 	Captain's Maneuver 	Instant 	XWR 	Uncommon 	Ben Thompson 	English Apocalypse
+93 	Consume Strength 	Instant 	1BG 	Common 	Adam Rex 	English Apocalypse
+94 	Cromat 	Creature - Legend 5/5 	WUBRG 	Rare 	Donato Giancola 	English Apocalypse
+95 	Death Grasp 	Sorcery 	XWB 	Rare 	Eric Peterson 	English Apocalypse
+96 	Death Mutation 	Sorcery 	6BG 	Uncommon 	Carl Critchlow 	English Apocalypse
+97 	Ebony Treefolk 	Creature - Treefolk 3/3 	1BG 	Uncommon 	Matt Cavotta 	English Apocalypse
+98 	Fervent Charge 	Enchantment 	1WBR 	Rare 	Mark Tedin 	English Apocalypse
+99 	Flowstone Charger 	Creature - Beast 2/5 	2WR 	Uncommon 	John Gallagher 	English Apocalypse
+100 	Fungal Shambler 	Creature - Beast 6/4 	4UBG 	Rare 	Jim Nelson 	English Apocalypse
+101 	Gaea's Skyfolk 	Creature - Elf Merfolk 2/2 	UG 	Common 	Terese Nielsen 	English Apocalypse
+102 	Gerrard's Verdict 	Sorcery 	WB 	Uncommon 	Carl Critchlow 	English Apocalypse
+103 	Goblin Legionnaire 	Creature - Goblin Soldier 2/2 	WR 	Common 	Mark Romanoski 	English Apocalypse
+104 	Goblin Trenches 	Enchantment 	1WR 	Rare 	Wayne England 	English Apocalypse
+105 	Guided Passage 	Sorcery 	URG 	Rare 	Alex Horley-Orlandelli 	English Apocalypse
+106 	Jungle Barrier 	Creature - Wall 2/6 	2UG 	Uncommon 	Edward P. Beard, Jr. 	English Apocalypse
+107 	Last Stand 	Sorcery 	WUBRG 	Rare 	Ron Spencer 	English Apocalypse
+108 	Lightning Angel 	Creature - Angel 3/4 	1WUR 	Rare 	rk post 	English Apocalypse
+109 	Llanowar Dead 	Creature - Zombie Elf 2/2 	BG 	Common 	Ben Thompson 	English Apocalypse
+110 	Martyrs' Tomb 	Enchantment 	2WB 	Uncommon 	Anthony S. Waters 	English Apocalypse
+111 	Minotaur Illusionist 	Creature - Minotaur 3/4 	3UR 	Uncommon 	Mark Zug 	English Apocalypse
+112 	Mystic Snake 	Creature - Snake 2/2 	1UUG 	Rare 	Daren Bader 	English Apocalypse
+113 	Overgrown Estate 	Enchantment 	WBG 	Rare 	Brian Snõ 	English Apocalypse
+114 	Pernicious Deed 	Enchantment 	1BG 	Rare 	Christopher Moeller 	English Apocalypse
+115 	Powerstone Minefield 	Enchantment 	2WR 	Rare 	Greg & Tim Hildebrandt 	English Apocalypse
+116 	Prophetic Bolt 	Instant 	3UR 	Rare 	Dave Dorman 	English Apocalypse
+117 	Putrid Warrior 	Creature - Soldier Zombie 2/2 	WB 	Common 	Ray Lago 	English Apocalypse
+118 	Quicksilver Dagger 	Enchant Creature 	1UR 	Common 	Alex Horley-Orlandelli 	English Apocalypse
+119 	Razorfin Hunter 	Creature - Merfolk Goblin 1/1 	UR 	Common 	Jeff Easley 	English Apocalypse
+120 	Soul Link 	Enchant Creature 	1WB 	Common 	Jeff Easley 	English Apocalypse
+121 	Spiritmonger 	Creature - Beast 6/6 	3BG 	Rare 	Glen Angus 	English Apocalypse
+122 	Squee's Embrace 	Enchant Creature 	WR 	Common 	Rebecca Guay 	English Apocalypse
+123 	Squee's Revenge 	Sorcery 	1UR 	Uncommon 	Kev Walker 	English Apocalypse
+124 	Suffocating Blast 	Instant 	1UUR 	Rare 	Christopher Moeller 	English Apocalypse
+125 	Temporal Spring 	Sorcery 	1UG 	Common 	John Matson 	English Apocalypse
+126 	Vindicate 	Sorcery 	1WB 	Rare 	Brian Snõ 	English Apocalypse
+127 	Yavimaya's Embrace 	Enchant Creature 	5UUG 	Rare 	Eric Peterson 	English Apocalypse
+128 	Fire (Fire/Ice) 	Instant 	1R 	Uncommon 	Franz Vohwinkel 	English Apocalypse
+129 	Illusion (Illusion/Reality) 	Instant 	U 	Uncommon 	David Martin 	English Apocalypse
+130 	Life (Life/Death) 	Sorcery 	G 	Uncommon 	Edward P. Beard, Jr. 	English Apocalypse
+131 	Night (Night/Day) 	Instant 	B 	Uncommon 	Anthony S. Waters 	English Apocalypse
+132 	Order (Order/Chaos) 	Instant 	3W 	Uncommon 	Greg & Tim Hildebrandt 	English Apocalypse
+133 	Brass Herald 	Artifact Creature - Golem 2/2 	6 	Uncommon 	Daren Bader 	English Apocalypse
+134 	Dodecapod 	Artifact Creature 3/3 	4 	Uncommon 	John Howe 	English Apocalypse
+135 	Dragon Arch 	Artifact 	5 	Uncommon 	Dana Knutson 	English Apocalypse
+136 	Emblazoned Golem 	Artifact Creature - Golem 1/2 	2 	Uncommon 	Greg Staples 	English Apocalypse
+137 	Legacy Weapon 	Legendary Artifact 	7 	Rare 	John Avon 	English Apocalypse
+138 	Mask of Intolerance 	Artifact 	2 	Rare 	Glen Angus 	English Apocalypse
+139 	Battlefield Forge 	Land 		Rare 	Darrell Riche 	English Apocalypse
+140 	Caves of Koilos 	Land 		Rare 	Jim Nelson 	English Apocalypse
+141 	Llanowar Wastes 	Land 		Rare 	Rob Alexander 	English Apocalypse
+142 	Shivan Reef 	Land 		Rare 	Rob Alexander 	English Apocalypse
+143 	Yavimaya Coast 	Land 		Rare 	Anthony S. Waters 	English Apocalypse
+144 	Ice (Fire/Ice) 	Instant 	1U 	Uncommon 	David Martin and Franz Vohwinkel 	English Apocalypse
+145 	Reality (Illusion/Reality) 	Instant 	2G 	Uncommon 	John Avon, David Martin 	English Apocalypse
+146 	Death (Life/Death) 	Sorcery 	1B 	Uncommon 	Edward P. Beard, Jr. and Anthony S. Waters 	English Apocalypse
+147 	Day (Night/Day) 	Instant 	2W 	Uncommon 	Anthony S. Waters and Christopher Moeller 	English Apocalypse
+148 	Chaos (Order/Chaos) 	Instant 	2R 	Uncommon 	Greg & Tim Hildebrandt 	English Apocalypse
