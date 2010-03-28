@@ -15,15 +15,35 @@ $count=0;
 echo "<form action='save.php'>";
 echo "<input type='hidden' name='set' value='$set'>";
 //something else that is ghetto
-echo "<table cellspacing=0 cellpadding=0><tr><td><td><u><b>Card<td><u><b>Rarity</u> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <td><u><b>Owned";
+echo "<table cellspacing=3 cellpadding=3><tr><td><td><u><b>Card<td><u><b>Rarity</u><td><u><b>Color</u><td><u><b>Set</u><td><u><b>Type</u><td><u><b>Owned";
 
-$sth = $dbHandle->query("SELECT * FROM $set");
-
+$pos = strpos($set, "Type");
+if($pos !== false)
+{
+$color = explode(" ", $set);
+$color = $color[1];
+$sth = $dbHandle->query("SELECT * FROM cards where color='$color'");
+}
+else
+{
+if($set == "English Urzas Legacy") $set = "English Urza''s Legacy";
+if($set == "English Urzas Destiny") $set = "English Urza''s Destiny";
+if($set == "English Urzas Saga") $set = "English Urza''s Saga";
+if($set == "Timeshifted") $set = "English Time Spiral \"Timeshifted\"";
+$sth = $dbHandle->query("SELECT * FROM cards where set_name='$set'");
+}
 foreach($sth as $row) 
 {
    $count++;
-   echo "<tr><td>$count<td><a href='http://magiccards.info/query?q=" . $row['card_name'] . "'>" . $row['card_name'] . "</a><td>" . $row['rarity'] . "<td>";
-   echo "<input type='text' name='" . $row['id'] . "' value='" . $row['owned'] . "'>";
+
+   $set = $row['set_name'];
+   $set = explode(" ", $set, 2);
+   $set = $set[1];
+   $type = $row['card_type'];
+   $type = explode(" ", $type, 3);
+   $type = $type[0];
+   echo "<tr><td>$count<td><a href='http://magiccards.info/query?q=" . $row['card_name'] . "'>" . $row['card_name'] . "</a><td>" . $row['rarity'] . "<td>" . $row['color'] . "<td>" . $set . "<td>" . $type . "<td>";
+   echo "<input type='text' size='5' name='" . $row['id'] . "' value='" . $row['owned'] . "'>";
 }
 
 echo "</table>";

@@ -79,7 +79,7 @@
 79 	Jandor's Saddlebags 	Mono Artifact 	2 	Uncommon (U2) 	Dameon Willich 	English Arabian Nights
 80 	Jeweled Bird 	Mono Artifact 	1 	Uncommon (U3) 	Amy Weber 	English Arabian Nights
 81 	Pyramids 	Poly Artifact 	6 	Uncommon (U2) 	Amy Weber 	English Arabian Nights
-82 	Ring of Ma'rûono Artifact 	5 	Uncommon (U2) 	Dan Frazier 	English Arabian Nights
+82 	Ring of Ma'rûono 	Artifact 	5 	Uncommon (U2) 	Dan Frazier 	English Arabian Nights
 83 	Sandals of Abdallah 	Mono Artifact 	4 	Uncommon (U3) 	Dan Frazier 	English Arabian Nights
 84 	Bazaar of Baghdad 	Land 		Uncommon (U3) 	Jeff A. Menges 	English Arabian Nights
 85 	City of Brass 	Land 		Uncommon (U3) 	Mark Tedin 	English Arabian Nights

@@ -27,7 +27,7 @@
 27 	Krovikan Elementalist 	Summon Wizard 1/1 	BB 	Uncommon 	Douglas Shuler 	English Ice Age
 28 	Krovikan Fetish 	Enchant Creature 	2B 	Common 	Heather Hudson 	English Ice Age
 29 	Krovikan Vampire 	Summon Vampire 3/3 	3BB 	Uncommon 	Quinton Hoover 	English Ice Age
-30 	Legions of Lim-Dûummon Zombies 2/3 	1BB 	Common 	Anson Maddocks 	English Ice Age
+30 	Legions of Lim-Dul 	Summon Zombies 2/3 	1BB 	Common 	Anson Maddocks 	English Ice Age
 31 	Leshrac's Rite 	Enchant Creature 	B 	Uncommon 	Richard Thomas 	English Ice Age
 32 	Leshrac's Sigil 	Enchantment 	BB 	Uncommon 	Drew Tucker 	English Ice Age
 33 	Lim-DûCohort 	Summon Zombies 2/3 	1BB 	Common 	Douglas Shuler 	English Ice Age
@@ -41,7 +41,7 @@
 41 	Moor Fiend 	Summon Fiend 3/3 	3B 	Common 	Anson Maddocks 	English Ice Age
 42 	Necropotence 	Enchantment 	BBB 	Rare 	Mark Tedin 	English Ice Age
 43 	Norritt 	Summon Imp 1/1 	3B 	Common 	Mike Raabe 	English Ice Age
-44 	Oath of Lim-Dûnchantment 	3B 	Rare 	Douglas Shuler 	English Ice Age
+44 	Oath of Lim-Dul	Enchantment 	3B 	Rare 	Douglas Shuler 	English Ice Age
 45 	Pestilence Rats 	Summon Rats */3 	2B 	Common 	Jeff A. Menges 	English Ice Age
 46 	Pox 	Sorcery 	BBB 	Rare 	Cornelius Brudi 	English Ice Age
 47 	Seizures 	Enchant Creature 	1B 	Common 	Julie Baroh 	English Ice Age
