@@ -22,7 +22,7 @@ if($pos !== false)
 {
 $color = explode(" ", $set);
 $color = $color[1];
-$sth = $dbHandle->query("SELECT * FROM cards where color='$color'");
+$sql = "SELECT * FROM cards where color='$color'";
 }
 else
 {
@@ -30,8 +30,14 @@ if($set == "English Urzas Legacy") $set = "English Urza''s Legacy";
 if($set == "English Urzas Destiny") $set = "English Urza''s Destiny";
 if($set == "English Urzas Saga") $set = "English Urza''s Saga";
 if($set == "Timeshifted") $set = "English Time Spiral \"Timeshifted\"";
-$sth = $dbHandle->query("SELECT * FROM cards where set_name='$set'");
+$sql = "SELECT * FROM cards where set_name='$set'";
 }
+if(isset($_GET['owned']))
+{
+   $sql .= " and owned" . $_GET['owned'] . "";
+}
+$sql .= " order by card_name";
+$sth = $dbHandle->query($sql);
 foreach($sth as $row) 
 {
    $count++;
